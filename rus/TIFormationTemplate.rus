@@ -1,0 +1,72 @@
+TIFormationTemplate.Spacing.Spread=Широкий
+TIFormationTemplate.Spacing.Loose=Свободный
+TIFormationTemplate.Spacing.Tight=Сомкнутый
+
+TIFormationTemplate.displayName.Staggered=В шахматном порядке
+TIFormationTemplate.displayName.Convoy=Конвой
+TIFormationTemplate.displayName.EchelonRight=Правый эшелон
+TIFormationTemplate.displayName.EchelonLeft=Левый эшелон
+TIFormationTemplate.displayName.Chevron=Шеврон
+TIFormationTemplate.displayName.TwoChevrons=Двойной шеврон
+TIFormationTemplate.displayName.Arrow=Клин
+TIFormationTemplate.displayName.Line=Ряд
+TIFormationTemplate.displayName.TwoLines=Двойной ряд
+TIFormationTemplate.displayName.ThreeLines=Тройной ряд
+TIFormationTemplate.displayName.Wall=Пятерной ряд
+TIFormationTemplate.displayName.Column=Одинарная колонна
+TIFormationTemplate.displayName.TwoColumn=Двойная колонна
+TIFormationTemplate.displayName.ThreeColumn=Тройная колонна
+TIFormationTemplate.displayName.FourColumn=Четверная колонна
+TIFormationTemplate.displayName.FiveColumn=Пятерная колонна
+TIFormationTemplate.displayName.Cloud=Облако
+TIFormationTemplate.displayName.BoxThree=Шеренга
+
+TIFormationTemplate.Focus.Heavy=Тяжелые
+TIFormationTemplate.Focus.Ranged=Дальние
+TIFormationTemplate.Focus.Armored=Бронированные
+TIFormationTemplate.Focus.Battle=Мощные
+TIFormationTemplate.Focus.Swift=Быстрые
+
+TIFormationTemplate.Concentration.Dispersed=Равномерно
+TIFormationTemplate.Concentration.Center=В центре
+TIFormationTemplate.Concentration.Right=Справа
+TIFormationTemplate.Concentration.Left=Слева
+TIFormationTemplate.Concentration.Flanks=На флангах
+TIFormationTemplate.Concentration.Back=Сзади
+TIFormationTemplate.Concentration.Front=Спереди
+
+TIFormationTemplate.displayName={0} {1} {2} {3} //Строй + формация + фокус + концентрация, например. «Расстановка лучников справа».
+TIFormationTemplate.description={0}<br/>{1} {2} //Это должно звучать как футбольная формация и описывает расположение кораблей в космосе.
+
+TIFormationTemplate.Desc.Staggered=В шахматном порядке
+TIFormationTemplate.Desc.Convoy=Конвой
+TIFormationTemplate.Desc.EchelonRight=Правый эшелон
+TIFormationTemplate.Desc.EchelonLeft=Левый эшелон
+TIFormationTemplate.Desc.Chevron=Шеврон
+TIFormationTemplate.Desc.TwoChevrons=Двойной шеврон
+TIFormationTemplate.Desc.Arrow=Клин
+TIFormationTemplate.Desc.Line=Ряд
+TIFormationTemplate.Desc.TwoLines=Двойной ряд
+TIFormationTemplate.Desc.ThreeLines=Тройной ряд
+TIFormationTemplate.Desc.Wall=Пятерной ряд
+TIFormationTemplate.Desc.Column=Одинарная колонна
+TIFormationTemplate.Desc.TwoColumn=Двойная колонна
+TIFormationTemplate.Desc.ThreeColumn=Тройная колонна
+TIFormationTemplate.Desc.FourColumn=Четверная колонна
+TIFormationTemplate.Desc.FiveColumn=Пятерная колонна
+TIFormationTemplate.Desc.Cloud=Облако
+TIFormationTemplate.Desc.BoxThree=Шеренга
+
+TIFormationTemplate.Focus.Desc.Heavy=Самые большие корабли
+TIFormationTemplate.Focus.Desc.Ranged=Корабли дальнего боя
+TIFormationTemplate.Focus.Desc.Armored=Самые бронированные корабли
+TIFormationTemplate.Focus.Desc.Battle=Самые мощные корабли
+TIFormationTemplate.Focus.Desc.Swift=Самые быстрые корабли
+
+TIFormationTemplate.Concentration.Desc.Dispersed=равномерно
+TIFormationTemplate.Concentration.Desc.Center=в центре
+TIFormationTemplate.Concentration.Desc.Right=справа
+TIFormationTemplate.Concentration.Desc.Left=слева
+TIFormationTemplate.Concentration.Desc.Flanks=на флангах
+TIFormationTemplate.Concentration.Desc.Back=сзади
+TIFormationTemplate.Concentration.Desc.Front=спереди

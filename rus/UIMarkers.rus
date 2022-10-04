@@ -1,0 +1,15 @@
+UI.Markers.CouncilorMarker.Tooltip={0}{1} ({2})</color> //цвет фракции, имя советника, должность советника
+UI.Markers.CouncilorMarker.TooltipWithMission={0}{1} ({2})</color>: {3} ({4}). //цвет фракции, имя советника, должность советника, миссия, цель
+UI.Markers.CouncilorMarker.TooltipWithMissionResolveTime={0}{1} ({2})</color>: {3} ({4}). В работе до {5}. //цвет фракции, имя советника, должность советника, миссия, цель, дата выполнения
+UI.Markers.Capital.TooltipHeader={0} контрольных точек ({1}) //нация, # CP
+UI.Markers.Capital.ControlPoint=#{0} ({1}): {2}
+UI.Markers.Uncontrolled=Неконтролируемый
+UI.Markers.InvalidTarget=Недопустимая цель
+UI.Markers.Occupation={0}: {1} занято
+UI.Markers.CoreEconomicRegion=Экономический регион<br/>Этот регион даёт бонус к приоритету «Экономика».
+UI.Markers.CoreResourceRegion=Ресурсный регион<br/>Этот регион даёт бонус к приоритету «Экономика», однако приводит к росту уровня неравенства и изменению климата.
+UI.Markers.MonsterArmy=Мегафауна пришельцев {0}
+UI.Markers.NoFactionArmy={0} ({1}) {2}
+UI.Markers.FactionArmy={0} ({1}, {2}) {3}
+UI.Markers.Boost={0}<br/>{1}{2} в год
+UI.Markers.MissionControl={0}<br/>{1}{2}
