@@ -545,8 +545,8 @@ TIEffectTemplate.displayName.Effect_CoupBonus3=Проекты переворот
 TIEffectTemplate.description.Effect_CoupBonus3=– Получите +{0} к миссиям переворота
 TIEffectTemplate.displayName.Effect_CrackdownDefense3=Подавление оборонных проектов
 TIEffectTemplate.description.Effect_CrackdownDefense3=– Наши враги страдают -{0} в задания «Подавление» наших контрольных точек
-TIEffectTemplate.description.Effect_TotalHabMissionControlCost=– Общая стоимость <sprite name=mission_control> наших жилых помещений снижена на {4}
-TIEffectTemplate.description.Effect_TotalShipMissionControlCost=– Общая стоимость <sprite name=mission_control> наших кораблей снижена на {4}
+TIEffectTemplate.description.Effect_TotalHabMissionControlCost=– Общая стоимость <sprite name="mission_control"> наших жилых помещений снижена на {4}
+TIEffectTemplate.description.Effect_TotalShipMissionControlCost=– Общая стоимость <sprite name="mission_control"> наших кораблей снижена на {4}
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl5=– Наши ремонтные бригады проводят ремонт на {8} быстрее
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl25=– Наши ремонтные бригады проводят ремонт на {8} быстрее
 TIEffectTemplate.description.Effect_ImprovedSpaceCombatDamageControl=– Наши ремонтные бригады проводят ремонт на {8} быстрее
@@ -582,7 +582,7 @@ TIEffectTemplate.description.Effect_TerrorKnowledge=– Вражеские ми�
 TIEffectTemplate.displayName.Effect_AssaultAlienAssetKnowledge=Допросы пришельцев
 TIEffectTemplate.description.Effect_AssaultAlienAssetKnowledge=– Наши миссии Нападение на инопланетные объекты получают бонус +{0}
 TIEffectTemplate.displayName.Effect_CounterXenoforming=Проекты против ксеноформирования
-TIEffectTemplate.description.Effect_CounterXenoforming=– Попытки пришельцев посадить ксеноформы в наших регионах получают штраф -{0}.
+TIEffectTemplate.description.Effect_CounterXenoforming=– Попытки пришельцев посадить ксеноформы в наших регионах получают штраф -{0}
 TIEffectTemplate.description.Effect_FocusedDefenses=– Наши корабли получают на {4} меньше урона от инопланетного оружия
 TIEffectTemplate.description.Effect_SurvivabilityUpgrades=– Наши корабли получают на {4} меньше урона от оружия противника в бою
 TIEffectTemplate.displayName.Effect_SeizeSpaceAssetAttack_Griffin=Исследование грифона
@@ -686,3 +686,17 @@ TIEffectTemplate.displayName.Effect_AbductionsDefense=Abductions defenses
 TIEffectTemplate.description.Effect_AbductionsDefense=– Aliens suffer -{0} on abduction missions in nations where we have executive control
 TIEffectTemplate.description.Effect_UpdateAlienThreatMeter=– We update our intelligence estimate about how the aliens regard our faction
 TIEffectTemplate.description.Effect_FixAlienThreatMeter=– We update our intelligence estimate about how the aliens regard our faction with accurate information
+TIEffectTemplate.displayName.Effect_HackProject_Steal=Hacking projects
+TIEffectTemplate.description.Effect_HackProject_Steal=-Gain +{0} on Steal Project missions
+TIEffectTemplate.displayName.Effect_HackProject_Sabotage=Hacking projects
+TIEffectTemplate.description.Effect_HackProject_Sabotage=-Gain +{0} on Sabotage Project missions
+TIEffectTemplate.displayName.Effect_InspireBonus=Inspire projects
+TIEffectTemplate.description.Effect_InspireBonus=-Gain +{0} on Inspire missions
+TIEffectTemplate.description.Effect_TurnBonus=-Gain +{0} on Turn Councilor missions
+TIEffectTemplate.description.Effect_LoseTraitDeclining=-{1} loses the {13} trait
+TIEffectTemplate.displayName.Effect_EaseAbductions=Abduction tracking chips
+TIEffectTemplate.description.Effect_EaseAbductions=Abduction missions globally gain +{0} success chance
+TIEffectTemplate.description.Effect_SpaceResearchBoost05=All Habs produce +{8} Research output.
+TIEffectTemplate.description.Effect_SpaceResearchBoost1=All Habs produce +{8} Research output.
+TIEffectTemplate.description.Effect_SetAlienHate0=Alien attitude toward us set to tolerance
+TIEffectTemplate.description.Effect_BlockAlienContact=Prevents contacting Alien Councilors

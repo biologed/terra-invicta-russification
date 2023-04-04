@@ -703,10 +703,10 @@ TINationTemplate.unionDisplayNameWithArticle.MYS=Малайский Союз
 TINationTemplate.unionAdjective.MYS=Малайцы
 TINationTemplate.unionDisplayNameWithArticlePrep.MYS=в Малайском союзе
 
-TINationTemplate.unionDisplayName.NGA=Нигерийская конфедерация
-TINationTemplate.unionDisplayNameWithArticle.NGA=Нигерийская конфедерация
-TINationTemplate.unionAdjective.NGA=Нигерийцы
-TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Нигерийской конфедерации
+TINationTemplate.unionDisplayName.NGA=Восточноафриканское сообщество
+TINationTemplate.unionDisplayNameWithArticle.NGA=Восточноафриканское сообщество
+TINationTemplate.unionAdjective.NGA=Африканцы
+TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Восточноафриканском сообществе
 
 TINationTemplate.unionDisplayName.PER=Конфедерация Перу и Боливии
 TINationTemplate.unionDisplayNameWithArticle.PER=Конфедерация Перу и Боливии
@@ -962,10 +962,23 @@ TINationTemplate.displayNameWithArticle.URL=Урал
 TINationTemplate.nationAdjective.URL=Русские
 TINationTemplate.displayNameWithArticlePrep.URL=на Урале
 
-TINationTemplate.unionDisplayName.POL=Славянское Содружество
-TINationTemplate.unionDisplayNameWithArticle.POL=Славянское Содружество
+TINationTemplate.unionDisplayName.POL=Междуморье
+TINationTemplate.unionDisplayNameWithArticle.POL=Междуморье
 TINationTemplate.unionAdjective.POL=Славяне
-TINationTemplate.unionDisplayNameWithArticlePrep.POL=в Славянском Содружестве
+TINationTemplate.unionDisplayNameWithArticlePrep.POL=в Междуморье
+
+TINationTemplate.displayName.PAT=Патагония
+TINationTemplate.displayNameWithArticle.PAT=Патагония
+TINationTemplate.nationAdjective.PAT=Патагонцы
+TINationTemplate.displayNameWithArticlePrep.PAT=в Патагонии
+TINationTemplate.displayName.CAY=Кайен
+TINationTemplate.displayNameWithArticle.CAY=Кайен
+TINationTemplate.nationAdjective.CAY=Кайены
+TINationTemplate.displayNameWithArticlePrep.CAT=в Кайене
+TINationTemplate.displayName.PNG=Папуа - Новая Гвинея
+TINationTemplate.displayNameWithArticle.PNG=Папуа - Новая Гвинея
+TINationTemplate.nationAdjective.PNG=Меланезийцы
+TINationTemplate.displayNameWithArticlePrep.PNG=в Папуа - Новая Гвинея
 
 
 

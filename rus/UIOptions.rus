@@ -64,6 +64,7 @@ UI.Options.MaxShipsInCombat=Максимум кораблей в бою
 UI.Options.AlertSpaceTimer=Пауза и оповещение об обновлении статуса флота
 UI.Options.ToggleMonthlyIncomes=Показывать доход за месяц
 UI.Options.SystemClock=Показывать системное время
+UI.Options.AssignmentPhaseCameraFocus=Focus camera on councilor at the beginning of the mission assignment phase
 UI.Options.MuteInBackground=Отключать звук в фоновом режиме
 UI.Options.Language=Язык
 UI.Options.WaypointAngleSnap=Привязка угла боевой путевой точки (градусы)
@@ -127,6 +128,16 @@ UI.Options.KeybindWaypointBurn=Настроить запись путевой т
 UI.Options.KeybindWaypointRotateX=Задать рыскание путевой точки (вращение по X)
 UI.Options.KeybindWaypointRotateY=Задать наклон путевой точки (вращение по Y)
 UI.Options.KeybindWaypointRotateZ=Задать крен путевой точки (вращение по Z)
+UI.Options.KeybindFreeGroupMovement=Toggle Formation/Free Movement
+UI.Options.KeybindAddShipToGroupSelect=Add Ship To Group
+UI.Options.KeybindHorizontalPan=Pan Camera Horizontally
+UI.Options.KeybindVerticallyPan=Pan Camera Vertically
+UI.Options.KeybindWaypointAttractiveMovement=Toggle Attractive Movement
+UI.Options.KeybindWaypointRepulsiveMovement=Toggle Repulsive Movement
+UI.Options.KeybindSetControlGroup=Set Control Group
+UI.Options.KeybindSelectControlGroup=Select Control Group
+UI.Options.KeybindRotateCamera=Rotate Camera
+UI.Options.KeybindFlyCamera=Fly Camera
 UI.Options.ToggleProspectSymbols=Вкл/выкл иконки разведки
 UI.Options.GraphicsSkyboxOption=Космический фон
 UI.Options.Return=Назад
@@ -163,7 +174,7 @@ UI.Options.Quote3=«Мы обвиняем в своих бедах Солнце,
 UI.Options.Quote4=«Сами небеса вспыхивают смертью принцев»<br/><align=right>— Шекспир, Юлий Цезарь, 2.2</align>
 UI.Options.Quote5=«И дабы ты, взглянув на небо и увидев Солнце, Луну и звёзды и всё воинство небесное, не прельстился и не поклонился им и не служил им»<br/><align=right>— Библия, Второзаконие 4:19</align>
 UI.Options.Quote6=«Человек должен подняться над Землёй – в атмосферу и за её пределы – ибо только так он полностью поймет мир, в котором живёт»<br/><align=right>— Сократ</align>
-UI.Options.Quote7=«Если инопланетяне посетят нас, результат будет таким же, как при высадке Колумба в Америке, что не очень хорошо обернулось для коренных американцев»<br/><align=right>— Стивен Хокинг</align>
+UI.Options.Quote7=«Если инопланетяне посетят нас, результат будет таким же, как при высадке Колумба в Америке, что не очень хорошо обернулось для коренных американцев. Нам стоит только взглянуть на самих себя, чтобы понять, как разумная жизнь может развиться во что-то такое, с чем нам не захотелось бы встречаться.»<br/><align=right>— Стивен Хокинг</align>
 UI.Options.Quote8=«С бесконечным самодовольством люди ходили по всему земному шару со своими маленькими делами, безмятежные в своей уверенности во власти над материей»<br/><align=right>— Х.Г. Уэллс, Война миров</align>
 UI.Options.Quote9=«Астрономия научила нас незначительности в природе»<br/><align=right>— Ральф Уолдо Эмерсон</align>
 UI.Options.Quote10=«Если мы стремимся верить, что звёзды восходят и заходят для нас, что мы являемся причиной существования Вселенной, не окажет ли наука медвежью услугу, развеяв наше тщеславие?»<br/><align=right>— Карл Саган</align>

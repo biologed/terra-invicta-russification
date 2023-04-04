@@ -16,6 +16,7 @@ UI.Notifications.CouncilorReports=Защищённый канал с {0} //им�
 UI.Notifications.ContinueButtonText=Продолжить
 UI.Notifications.CloseButtonText=Закрыть
 UI.Notifications.GotoButtonText=Посмотреть
+UI.Notifications.GotoButtonTextObjectives=View Objectives
 UI.Notifications.RepeatMissionButtonText=Повторить задание
 UI.Notifications.RepeatOpButtonText=Повторить операцию
 UI.Notifications.PermanentAssignment=Повторять задание бесконечно
@@ -65,6 +66,7 @@ UI.Notifications.MyControlPointDominatedHed=Контрольная точка с
 UI.Notifications.MyControlPointDominatedSummary={0} агентов вынудили сдать {1} контрольную точку {2}. //прилагательное фракции, прилагательное фракции, нация с подготовкой
 UI.Notifications.MyControlPointDominatedDetail=Агенты {0} пригрозили нанести орбитальные удары по различным военным и гражданским объектам {1}, в результате чего тамошние лидеры сдали им одну из наших контрольных точек. {2}
 UI.Notifications.MyControlPointDominatedDetail2=Сторонники {0} нанесли разрушительные орбитальные удары по военным и гражданским объектам {1} после попытки запугать наших непокорных сторонников и заставить их подчиниться. Выжившие сдали им один из наших контрольных пунктов. {2}
+UI.Notifications.Neutral=neutral
 UI.Notifications.MyControlPointCrackedDownHed=Разгон
 UI.Notifications.MyControlPointCrackedDownSummary=Наши противники напали на нашу контрольную точку {0} в {1}.
 UI.Notifications.MyControlPointCrackedDownDetail=Наши противники напали на нашу контрольную точку {0} в {1}. Он уязвим для задание «Зачистка», и мы не получим от него преимуществ до {2}. //описание контрольной точки, страна, дата
@@ -378,6 +380,8 @@ UI.Notifications.FleetLaunchesAtMeDetail={0} Флот {1} запущен по т
 UI.Notifications.FleetArrivedHeadline={0} флот {1} завершает переход
 UI.Notifications.FleetArrivedSummary={0} флот {1} прибыл {2}.
 UI.Notifications.FleetArrivedDetail={0} флот {1} прибыл {2}.
+UI.Notifications.FleetArrivedResupply=<sp>The fleet will begin resupplying.
+UI.Notifications.FleetArrivedRepair=<sp>The fleet will begin repairs.
 UI.Notifications.FleetTrajectoryAbortedHed={0} отменяет планы полета
 UI.Notifications.FleetTrajectoryAbortedSummary={0} прервал свой план полета.
 UI.Notifications.FleetTrajectoryAbortedDetail_TargetFleetChange={0} был вынужден прервать свой план полета из-за того, что флот, на который он нацеливался, изменил свою траекторию.
@@ -545,6 +549,18 @@ UI.Notifications.OrgPoolOverfull.Hed=Уменьшить неназначенны
 UI.Notifications.OrgPoolOverfull.Summary=Мы должны сократить наш пул неназначенных организаций.
 UI.Notifications.OrgPoolOverfull.Detail=Недавние транзакции сделали наш пул неназначенных организаций больше, чем мы можем управлять. Мы должны назначать организации нашим советникам или продавать их до тех пор, пока у нас не будет {0} или меньше организаций в неназначенном пуле. Мы не сможем опережать время, пока этот вопрос не будет решен.
 
+UI.Notifications.ArmyBeginsAnnexationHed={0} Begins Annexing {1} Region
+UI.Notifications.ArmyBeginsAnnexationSummary={0} has begun annexing the {1} region {2}.
+UI.Notifications.ArmyBeginsAnnexationDetail={0} has begun annexing the {1} region {2}. If it is not interrupted by fighting or a cessation of hostilities, {3} will take control of the region by {4}.
+
+UI.Notifications.ArmyCompletesAnnexationHed={0} Annexes {1} Region
+UI.Notifications.ArmyCompletesAnnexationSummary={0} has annexed the {1} region {2}.
+UI.Notifications.ArmyCompletesAnnexationDetail={0} has annexed the {1} region {2}.
+
+UI.Notifications.ArmyCancelsAnnexationHed={0} Annexation Attempt Fails
+UI.Notifications.ArmyCancelsAnnexationSummary=An attempt by {0} to annex the {1} region {2} has failed.
+UI.Notifications.ArmyCancelsAnnexationDetail=An attempt by {0} to annex the {1} region {2} has ended in failure.
+
 UI.Notifications.HabModuleDecommissioned.Summary=Мы завершили списание {0} в {1}. //имя модуля, имя хаба
 
 UI.Notifications.HabDecommissioned.Hed={0} Списан
@@ -615,6 +631,12 @@ UI.Notifications.Diplomacy.TradeValueLow=Нам нужно немного бол
 UI.Notifications.Diplomacy.TradeValueEqual=Это честная сделка, я согласен.
 UI.Notifications.Diplomacy.TradeValueHigh=Щедрая сделка, я принимаю.
 UI.Notifications.Diplomacy.TradeValueOffered=Что вы думаете об этой сделке?
+UI.Notifications.Diplomacy.TradeValueNone.Alien=Offer (<color=#9964FF>Submit proposition</color>).
+UI.Notifications.Diplomacy.TradeValueVeryLow.Alien=Lacking (<color=#9964FF>Insufficient. Unacceptable.</color>).
+UI.Notifications.Diplomacy.TradeValueLow.Alien=Inadequate (<color=#9964FF>Undesirable</color>).
+UI.Notifications.Diplomacy.TradeValueEqual.Alien=Adequate (<color=#9964FF>Acceptable</color>).
+UI.Notifications.Diplomacy.TradeValueHigh.Alien=Generous (<color=#9964FF>Approved</color>).
+UI.Notifications.Diplomacy.TradeValueOffered.Alien=Review (<color=#9964FF>Accept offer</color>).
 UI.Notifications.Diplomacy.TabResources=Ресурсы
 UI.Notifications.Diplomacy.TabOrgs=Организации
 UI.Notifications.Diplomacy.TabProjects=Проекты
@@ -634,3 +656,5 @@ UI.Notifications.Diplomacy.NAP=Пакт о ненападении
 UI.Notifications.Diplomacy.Truce=Перемирие
 UI.Notifications.Diplomacy.NAPDesc=Пакт о ненападении – это соглашение, позволяющее избегать враждебных миссий советников и политики против вашей фракции.
 UI.Notifications.Diplomacy.TruceDesc=Перемирие – это соглашение о прекращении войны и прекращении враждебных миссий советников и политики против вашей фракции на {0} месяцев. //длительность перемирия
+UI.Notifications.Diplomacy.ImproveRelations=Improve Relations
+UI.Notifications.Diplomacy.ImproveRelationsTooltip=Completing a trade with another faction will lower their hate towards your faction and improve relations.
