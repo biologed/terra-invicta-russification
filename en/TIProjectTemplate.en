@@ -1,6 +1,6 @@
 TIProjectTemplate.displayName.Project_TheirSignatures=Alien Signatures
 TIProjectTemplate.summary.Project_TheirSignatures=We study the recovered samples to learn how to detect alien activity.
-TIProjectTemplate.description.Project_TheirSignatures=There is no doubt: extraterrestrial life has touched down on Earth. The many questions we have regarding its origin, its species, and its intent will have to wait. All that matters now is finding it. By cross-referencing reports of unusual events in the vicinity of the landing site with similar data from our global intelligence network, we have developed a tracking system able to reliably identify disappearances most likely resulting from alien activity.
+TIProjectTemplate.description.Project_TheirSignatures=There is no doubt: Extraterrestrial life has touched down on Earth. The many questions we have regarding its origin, its species, and its intent will have to wait. All that matters now is finding it. By cross-referencing reports of unusual events in the vicinity of the landing site with similar data from our global intelligence network, we have developed a tracking system able to reliably identify disappearances most likely resulting from alien activity.
 
 TIProjectTemplate.displayName.Project_TheirMethods=Alien Methods
 TIProjectTemplate.summary.Project_TheirMethods=We track signs of alien activity to attempt to determine why they are abducting humans.
@@ -76,7 +76,7 @@ TIProjectTemplate.description.Project_TheirWeakness=While it is tempting to rega
 
 TIProjectTemplate.displayName.Project_PherocyteResistance=Pherocyte Resistance
 TIProjectTemplate.summary.Project_PherocyteResistance=We seek a means of blocking the aliens' mental control of human subjects. 
-TIProjectTemplate.description.Project_PherocyteResistance=Until we can ascertain some means of overcoming the aliens' chemosensory-based “mind-control”, we are ultimately doomed to be in their thrall. Needless to say, this is highly undesirable. But, armed with the knowledge that pherocytes are not a mere chemical signal, but in fact living cells, we have been able to formulate a treatment that shields humans from their effects.  A vaccine, as it were - albeit one which requires regular booster shots in order to remain effective. 
+TIProjectTemplate.description.Project_PherocyteResistance=Until we can ascertain some means of overcoming the aliens' chemosensory-based “mind-control”, we are ultimately doomed to be in their thrall. Needless to say, this is highly undesirable. But, armed with the knowledge that pherocytes are not a mere chemical signal, but in fact living cells, we have been able to formulate a treatment that shields humans from their effects. A vaccine, as it were - albeit one which requires regular booster shots in order to remain effective.
 
 TIProjectTemplate.displayName.Project_Wormholes=Wormholes
 TIProjectTemplate.summary.Project_Wormholes=We search deep space for signs of the traversable wormhole used by the aliens to reach our solar system.
@@ -128,7 +128,7 @@ TIProjectTemplate.description.Project_CoexistencePact=Though some amongst us ref
 
 TIProjectTemplate.displayName.Project_APermanentPeace=A Permanent Peace
 TIProjectTemplate.summary.Project_APermanentPeace=We seek to convince the aliens that a peaceable solution is the only possible solution.
-TIProjectTemplate.description.Project_APermanentPeace=Any realistic chance of talking the Hydra down - i.e. ending this war through neither violence nor subjugation -  required breakthroughs on multiple fronts. The first was designing a weapon that could frighten even them. On this we have succeeded - at least in theory. The second was convincing our only still-wary captive to convince his kin that their current path leads only to mutually-assured destruction. Our intentions remain peaceable, but in order to achieve that, we have had to comport ourselves with a certain aggression. 
+TIProjectTemplate.description.Project_APermanentPeace=Any realistic chance of talking the Hydra down - i.e. ending this war through neither violence nor subjugation - required breakthroughs on multiple fronts. The first was designing a weapon that could frighten even them. On this we have succeeded - at least in theory. The second was convincing our only still-wary captive to convince his kin that their current path leads only to mutually-assured destruction. Our intentions remain peaceable, but in order to achieve that, we have had to comport ourselves with a certain aggression. 
 
 TIProjectTemplate.displayName.Project_KilltheHive=Kill the Hive
 TIProjectTemplate.summary.Project_KilltheHive=We devise a pherocyte-based bioweapon capable of ending the Hydra threat - permanently.
@@ -223,7 +223,7 @@ TIProjectTemplate.summary.Project_HokkaidoIndependenceMovement=The Ainu people s
 TIProjectTemplate.displayName.Project_SiberianIndependenceMovement=Siberian Independence Movement
 TIProjectTemplate.summary.Project_SiberianIndependenceMovement=Siberian peoples seek to break ties with Moscow.
 TIProjectTemplate.displayName.Project_BreakupofPakistan=Breakup of Pakistan
-TIProjectTemplate.summary.Project_BreakupofPakistan=Punjabis, Sindhis, Pashtuns and others decide to go it alone.
+TIProjectTemplate.summary.Project_BreakupofPakistan=Punjabis, Sindhis, Pashtuns, and others decide to go it alone.
 TIProjectTemplate.displayName.Project_WestraliaIndependenceMovement=Westralia Independence Movement
 TIProjectTemplate.summary.Project_WestraliaIndependenceMovement=The people of western Australia tire of their region's wealth only serving the cities in the East.
 TIProjectTemplate.displayName.Project_TheCaliphate=The Caliphate
@@ -272,8 +272,8 @@ TIProjectTemplate.displayName.Project_GreaterIndia=Greater India
 TIProjectTemplate.summary.Project_GreaterIndia=India looks to regain territories lost since Partition.
 TIProjectTemplate.displayName.Project_FreistaatConfederation=Freistaat Union
 TIProjectTemplate.summary.Project_FreistaatConfederation=Germany persuades its neighbors to unite in common cause.
-TIProjectTemplate.displayName.Project_SlavicCommonwealth=Slavic Commonwealth
-TIProjectTemplate.summary.Project_SlavicCommonwealth=Poland leads western and southern Slavic peoples toward a unified state.
+TIProjectTemplate.displayName.Project_SlavicCommonwealth=The Intermarium
+TIProjectTemplate.summary.Project_SlavicCommonwealth=Poland leads Eastern European nations toward a unified state.
 TIProjectTemplate.displayName.Project_NordicFederation=The Nordic Federation
 TIProjectTemplate.summary.Project_NordicFederation=Citizens of the Nordic nations find a path to unity.
 TIProjectTemplate.displayName.Project_SouthernCross=The Republic of the Southern Cross
@@ -281,7 +281,7 @@ TIProjectTemplate.summary.Project_SouthernCross=Australia seeks regional hegemon
 TIProjectTemplate.displayName.Project_UnitedMalayNation=The United Malay Nation
 TIProjectTemplate.summary.Project_UnitedMalayNation=Malays in many nations unite under a single banner.
 TIProjectTemplate.displayName.Project_GreaterMalaysia=Greater Malaysia
-TIProjectTemplate.summary.Project_GreaterMalaysia=Malaysia conslidates its power over nations where it has had historical influence.
+TIProjectTemplate.summary.Project_GreaterMalaysia=Malaysia consolidates its power over nations where it has had historical influence.
 TIProjectTemplate.displayName.Project_OccitanIndependenceMovement=Occitan Independence Movement
 TIProjectTemplate.summary.Project_OccitanIndependenceMovement=The people of southern France seek self-determination.
 TIProjectTemplate.displayName.Project_KatangaIndependenceMovement=Katanga Independence Movement
@@ -399,7 +399,7 @@ TIProjectTemplate.summary.Project_FusionPlatformKit=Our ships could deploy advan
 TIProjectTemplate.displayName.Project_FusionOutpostKit=Fusion Outpost Kit
 TIProjectTemplate.summary.Project_FusionOutpostKit=We design a prefabricated base command module, fusion reactor and construction module for delivery by our ships.
 TIProjectTemplate.displayName.Project_AutomatedSolarPlatformKit=Automated Solar Platform Kit
-TIProjectTemplate.summary.Project_AutomatedSolarPlatformKit=Deploys a prefabricated robotic station a solar module and a supply depot.
+TIProjectTemplate.summary.Project_AutomatedSolarPlatformKit=Deploys a prefabricated robotic station, a solar module, and a supply depot.
 TIProjectTemplate.displayName.Project_AutomatedSolarOutpostKit=Automated Solar Outpost Kit
 TIProjectTemplate.summary.Project_AutomatedSolarOutpostKit=Deploys a prefabricated robotic base with solar modules and a mine.
 TIProjectTemplate.displayName.Project_AutomatedFissionPlatformKit=Automated Fission Platform Kit
@@ -610,7 +610,7 @@ TIProjectTemplate.displayName.Project_BoronInertialTorch=Boron Inertial Torch
 TIProjectTemplate.summary.Project_BoronInertialTorch=<shipmodule>
 TIProjectTemplate.displayName.Project_BoronInertialDrive=Boron Inertial Drive
 TIProjectTemplate.summary.Project_BoronInertialDrive=<shipmodule>
-TIProjectTemplate.displayName.Project_DaedelusTorch=Daedelus Torch
+TIProjectTemplate.displayName.Project_DaedelusTorch=Daedalus Torch
 TIProjectTemplate.summary.Project_DaedelusTorch=<shipmodule>
 TIProjectTemplate.displayName.Project_HelionInertialDrive=Helion Inertial Drive
 TIProjectTemplate.summary.Project_HelionInertialDrive=<shipmodule>
@@ -1279,7 +1279,7 @@ TIProjectTemplate.summary.Project_LoyaltyTraining=We subtly imbue astronaut and 
 TIProjectTemplate.displayName.Project_Psyops=Psyops
 TIProjectTemplate.summary.Project_Psyops=Psychological Operations can build support for our cause in enemy territory. 
 TIProjectTemplate.displayName.Project_NetworkedPsyops=Networked Psyops
-TIProjectTemplate.summary.Project_NetworkedPsyops=Computer-assisted psyops offer instant analysis and feedback allowing us to tailor our messaging to maniuplate individuals and populations.
+TIProjectTemplate.summary.Project_NetworkedPsyops=Computer-assisted psyops offer instant analysis and feedback allowing us to tailor our messaging to manipulate individuals and populations.
 TIProjectTemplate.displayName.Project_GuerrillaWarfare=Guerrilla Warfare
 TIProjectTemplate.summary.Project_GuerrillaWarfare=We prepare unconventional forces around the globe to advance our interests while facing superior enemies.
 TIProjectTemplate.displayName.Project_FreedomFighters=Freedom Fighters
@@ -1291,7 +1291,7 @@ TIProjectTemplate.summary.Project_RapidStabilizationOperations=Eliminating poten
 TIProjectTemplate.displayName.Project_AutonomousResearchGroups=Autonomous Research Groups
 TIProjectTemplate.summary.Project_AutonomousResearchGroups=Modeled on aerospace "skunk works" operations, these teams are afforded considerable freedom to develop new ideas.
 TIProjectTemplate.displayName.Project_NuclearHardening=Army Nuclear Hardening
-TIProjectTemplate.summary.Project_NuclearHardening=We upgrade our armies with exotic-based armor technology that reduces damage from nearby nuclear strikes
+TIProjectTemplate.summary.Project_NuclearHardening=We upgrade our armies with exotic-based armor technology that reduces damage from nearby nuclear strikes.
 TIProjectTemplate.displayName.Project_DNARepairs=DNA Repairs
 TIProjectTemplate.summary.Project_DNARepairs=Molecular manipulation technologies allow nanorobots to repair damage to human DNA strands.
 TIProjectTemplate.displayName.Project_MethuselahTherapies=Methuselah Therapies
@@ -1380,7 +1380,7 @@ TIProjectTemplate.summary.Project_WaterPurificationTechniques=Improved filtering
 TIProjectTemplate.displayName.Project_RapidDistillationTechniques=Rapid Distillation Techniques
 TIProjectTemplate.summary.Project_RapidDistillationTechniques=Genetically engineered microbes assist in refining volatiles from our mines.
 TIProjectTemplate.displayName.Project_DeepSpaceMetallurgy=Deep Space Metallurgy
-TIProjectTemplate.summary.Project_DeepSpaceMetallurgy=Low-gravity refining techniques help us extract more marterial from mineral ore.
+TIProjectTemplate.summary.Project_DeepSpaceMetallurgy=Low-gravity refining techniques help us extract more material from mineral ore.
 TIProjectTemplate.displayName.Project_MolecularBenefication=Molecular Benefication
 TIProjectTemplate.summary.Project_MolecularBenefication=We squeeze more rare metals out of space rocks.
 TIProjectTemplate.displayName.Project_RapidFissileEnrichment=Rapid Fissile Enrichment
@@ -1464,7 +1464,7 @@ TIProjectTemplate.summary.Project_PherocyteScanners=We develop mobile scanning u
 TIProjectTemplate.displayName.Project_PherocyteDeconOperations=Pherocyte Decon Operations
 TIProjectTemplate.summary.Project_PherocyteDeconOperations=Controlled releases of bioengineered lifeforms reduce the localized spread of pherocytes.
 TIProjectTemplate.displayName.Project_PherocyteInoculations=Pherocyte Inoculations
-TIProjectTemplate.summary.Project_PherocyteInoculations=From our studies of alien thralls we develop a stopgap 
+TIProjectTemplate.summary.Project_PherocyteInoculations=From our studies of alien thralls we develop a stopgap.
 TIProjectTemplate.displayName.Project_BattlefieldPherocyteDecontamination=Battlefield Pherocyte Decontamination
 TIProjectTemplate.summary.Project_BattlefieldPherocyteDecontamination=We protect our soldiers against the mass spread of pherocytes in war zones, improving our effectiveness against alien armies.
 TIProjectTemplate.displayName.Project_BattlefieldPherocyteDeployment=Battlefield Pherocyte Deployment
@@ -1517,12 +1517,17 @@ TIProjectTemplate.displayName.Project_PherocyteLiabilityTheory=Pherocyte Liabili
 TIProjectTemplate.summary.Project_PherocyteLiabilityTheory=Legal experts develop mechanisms to handle responsibility for behaviors induced by alien exposure.
 TIProjectTemplate.displayName.Project_SecurityAccountabilityChaining=Security Accountability Chaining
 TIProjectTemplate.summary.Project_SecurityAccountabilityChaining=Security agencies develop procedures to monitor each other in case one is infiltrated by pherocytes.
-
-
-
-
-
-
-
-
-
+TIProjectTemplate.displayName.Project_PatagoniaIndependenceMovement=Reconquest of the Desert
+TIProjectTemplate.summary.Project_PatagoniaIndependenceMovement=Peoples of Patagonia seek to redraw the map.
+TIProjectTemplate.displayName.Project_NetworkIntrusionProtocols=Network Intrusion Protocols
+TIProjectTemplate.summary.Project_NetworkIntrusionProtocols=We develop a variety of weapons to penetrate enemy faction networks.
+TIProjectTemplate.displayName.Project_HungarianIrredentism=Hungarian Irredentism
+TIProjectTemplate.summary.Project_HungarianIrredentism=The dream shall never die.
+TIProjectTemplate.displayName.Project_APeriodofUnity=A Period of Unity
+TIProjectTemplate.summary.Project_APeriodofUnity=Vietnam seeks dominion over its neighbors.
+TIProjectTemplate.displayName.Project_CentralAsianUnion=Central Asian Union
+TIProjectTemplate.summary.Project_CentralAsianUnion=Former Soviet states see strength in unity.
+TIProjectTemplate.displayName.Project_MaglevTrains=Maglev Trains
+TIProjectTemplate.summary.Project_MaglevTrains=While Maglev trains are nothing new, recent breakthroughs in superconducting magnets have made it practical for nations to convert their entire public transportation network to Magnetic Levitation trains, ushering in a new era of high speed rail.
+TIProjectTemplate.displayName.Project_SelfDrivingVehicles=Self-Driving Vehicles
+TIProjectTemplate.summary.Project_SelfDrivingVehicles=After many failed attempts, self-driving vehicles are now a reality. Not only cars, but trucks, trains, and airplanes can now pilot themselves autonomously.
