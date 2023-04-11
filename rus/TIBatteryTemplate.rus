@@ -1,13 +1,13 @@
 TIBatteryTemplate.displayName.Lithium-IonBattery=Литий-ионный аккумулятор
 TIBatteryTemplate.description.Lithium-IonBattery=Аккумулятор с ионами, проходящими через электролитный раствор, является простым, но медленно заряжающимся накопителем энергии.
 TIBatteryTemplate.displayName.Lithium-SulfurBattery=Литий-серный аккумулятор
-TIBatteryTemplate.description.Lithium-SulfurBattery=Стабилизированный серой, литий-ионный аккумулятор обладает более высокой энергоёмкостью.
+TIBatteryTemplate.description.Lithium-SulfurBattery=Стабилизированный серой, литий-ионный аккумулятор обладает более высокой энергоемкостью.
 TIBatteryTemplate.displayName.MoltenSaltBattery=Термальный аккумулятор
-TIBatteryTemplate.description.MoltenSaltBattery=Тяжёлый, высокоёмкий аккумулятор, хранящий энергию в жидкометаллической среде.
+TIBatteryTemplate.description.MoltenSaltBattery=Тяжелый, высокоемкий аккумулятор, хранящий энергию в жидкометаллической среде.
 TIBatteryTemplate.displayName.SaltWaterBattery=Натрий-хлорный аккумулятор
 TIBatteryTemplate.description.SaltWaterBattery=Долговечный перезаряжаемый аккумулятор, в котором вместо вредных и опасных химических соединений используется физраствор.
 TIBatteryTemplate.displayName.GrapheneBattery=Графеновый аккумулятор
-TIBatteryTemplate.description.GrapheneBattery=Тяжёлый аккумулятор, который благодаря атомарным слоям графена имеет увеличенную энергоемкость и быструю зарядку.
+TIBatteryTemplate.description.GrapheneBattery=Тяжелый аккумулятор, который благодаря атомарным слоям графена имеет увеличенную энергоемкость и быструю зарядку.
 TIBatteryTemplate.displayName.QuantumBattery=Квантовый аккумулятор
 TIBatteryTemplate.description.QuantumBattery=Аккумулятор с практически нулевыми потерями энергии, который вместо использования электрохимических реакций, накапливает энергию благодаря электронному возбуждению.
 TIBatteryTemplate.displayName.SuperconductingCoilBattery=Сверхпроводящий спиральный аккумулятор

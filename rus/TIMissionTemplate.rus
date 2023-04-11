@@ -9,14 +9,14 @@ TIMissionTemplate.displayName.GainInfluence=Захват контрольной 
 TIMissionTemplate.description.GainInfluence=Захватить свободную контрольную точку в стране.
 TIMissionTemplate.CriticalSuccess.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep} для фракции «{myFactionName}», кроме того общественная поддержка нашей фракции увеличилась на {returnedValue}. Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
 TIMissionTemplate.Success.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep} для фракции «{myFactionName}». Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
-TIMissionTemplate.Failure.GainInfluence=Моё задание «Захват контрольной точки» {targetNationNameWithPrep} провалилось.
+TIMissionTemplate.Failure.GainInfluence=Мое задание «Захват контрольной точки» {targetNationNameWithPrep} провалилось.
 TIMissionTemplate.CriticalFailure.GainInfluence=Я потерпел серьезную неудачу во время выполнения задания «Захват контрольной точки» {targetNationNameWithPrep}, в результате чего общественная поддержка нашей фракции снизилась {returnedValue}.
 
 TIMissionTemplate.displayName.Propaganda=Пропаганда
 TIMissionTemplate.description.Propaganda=Усилить общественную поддержку нашей фракции в стране.
 TIMissionTemplate.CriticalSuccess.Propaganda=Советник усилил поддержку фракции «{myFactionName}» {targetNationNameWithPrep}. {returnedValue}
 TIMissionTemplate.Success.Propaganda=Советник усилил поддержку фракции «{myFactionName}» {targetNationNameWithPrep}. {returnedValue}
-TIMissionTemplate.Failure.Propaganda=Моё задание «{missionName}» {targetNationNameWithPrep} провалилось.
+TIMissionTemplate.Failure.Propaganda=Мое задание «{missionName}» {targetNationNameWithPrep} провалилось.
 TIMissionTemplate.CriticalFailure.Propaganda=Моя миссия {missionName} {targetNationNameWithPrep} провалилась! {returnedValue}
 
 TIMissionTemplate.displayName.Purge=Зачистка
@@ -227,7 +227,7 @@ TIMissionTemplate.description.Stabilize=Подавить беспорядки в
 TIMissionTemplate.CriticalSuccess.Stabilize=Мне удалось значительно снизить уровень беспорядков {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}.
 TIMissionTemplate.Success.Stabilize=Мне удалось снизить уровень беспорядков {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}.
 TIMissionTemplate.Failure.Stabilize=Мне не удалось снизить уровень беспорядков {targetNationNameWithPrep}.
-TIMissionTemplate.CriticalFailure.Stabilize=Мои попытки снизить уровень беспорядков {targetNationNameWithPrep} обернулись катастрофой из-за чего страна ещё больше дестабилизируется на {returnedValue}
+TIMissionTemplate.CriticalFailure.Stabilize=Мои попытки снизить уровень беспорядков {targetNationNameWithPrep} обернулись катастрофой из-за чего страна еще больше дестабилизируется на {returnedValue}
 
 TIMissionTemplate.displayName.StealProject=Кража проекта
 TIMissionTemplate.description.StealProject=Украдите инженерный проект у фракции, используя модуль на одного из вражеских советников, станцию или базу. Мы также можем приобрести <sprite name="research">, если вражеская фракция опережает нас в наборе очков науки.
@@ -257,7 +257,7 @@ TIMissionTemplate.Success.Transfer=Я прибыл в {targetDisplayName}.
 
 TIMissionTemplate.displayName.Turn=Вербовка советника
 TIMissionTemplate.description.Turn=Попытаться завербовать вражеского советника, чтобы получить данные о его фракции и контроль за успешностью выполнения им заданий. Для выполнения задания потребуется точная информация о лояльности советника.
-TIMissionTemplate.CriticalSuccess.Turn=Мы обратились {targetDisplayName} к нашему делу. Этот советник продолжит работать на {targetFactionName}, но у нас будет доступ ко всей информации фракции и контроль над успехом или неудачей советника в миссиях. Мы должны позаботиться о том, чтобы не вызвать слишком много подозрений у {targetFactionName}!<br/><br/>Мы добились ещё одного успеха: наш новый агент принес месячные исследовательские файлы, что значительно продвинуло наши собственные разработки.
+TIMissionTemplate.CriticalSuccess.Turn=Мы обратились {targetDisplayName} к нашему делу. Этот советник продолжит работать на {targetFactionName}, но у нас будет доступ ко всей информации фракции и контроль над успехом или неудачей советника в миссиях. Мы должны позаботиться о том, чтобы не вызвать слишком много подозрений у {targetFactionName}!<br/><br/>Мы добились еще одного успеха: наш новый агент принес месячные исследовательские файлы, что значительно продвинуло наши собственные разработки.
 TIMissionTemplate.Success.Turn=Мы обратились {targetDisplayName} к нашему делу. Этот советник продолжит работать на {targetFactionName}, но у нас будет доступ ко всей информации фракции и контроль над успехом или неудачей советника в миссиях. Мы должны позаботиться о том, чтобы не вызвать слишком много подозрений среди {targetFactionName}!
 TIMissionTemplate.Failure.Turn=Нам не удалось обратить {targetDisplayName} в нашу пользу.
 TIMissionTemplate.CriticalFailure.Turn=Мне не удалось привлечь {targetDisplayName} к нашему делу, и похоже, что {targetFactionName} раскрыли меня во время выполнения задания.
@@ -288,9 +288,9 @@ TIMissionTemplate.displayName.DestroyWin=Активировать оружие
 TIMissionTemplate.description.DestroyWin=Отправьте наше биологическое оружие через червоточину. Мы должны атаковать базу пришельцев и приземлиться первыми. Требуется, чтобы мы выполнили наши цели победы.
 TIMissionTemplate.Success.DestroyWin=Мы внедрили вирус Шива.
 
-TIMissionTemplate.displayName.EscapeWin=Запуск Биврёста
+TIMissionTemplate.displayName.EscapeWin=Запуск Бивреста
 TIMissionTemplate.description.EscapeWin=Отдайте приказ о запуске, чтобы начать наше межзвездное путешествие.
-TIMissionTemplate.Success.EscapeWin=Мы запустили Биврёста.
+TIMissionTemplate.Success.EscapeWin=Мы запустили Бивреста.
 
 TIMissionTemplate.displayName.ExploitWin=Усмирить пришельцев
 TIMissionTemplate.description.ExploitWin=Отправить пакет неофероцитов через червоточину. Мы должны атаковать базу пришельцев и приземлиться первыми. Требуется, чтобы мы выполнили наши цели победы.
@@ -317,7 +317,7 @@ TIMissionEffect_InvestigateCouncilor.EnemySpecial4=Мы можем знать о
 TIMissionEffect_InvestigateCouncilor.EnemySpecial5=Мы также узнали, что {0} шпионит в пользу {1}.
 TIMissionEffect_InvestigateCouncilor.MySpecial1=Мы определили их фактический показатель лояльности на уровне {0}.
 TIMissionEffect_InvestigateCouncilor.MySpecial2=Мы узнали, что {0} настроен против нас {1} и шпионит за нами. Это серьезная утечка, которую мы должны устранить как можно скорее.
-TIMissionEffect_InvestigateCouncilor.MySpecial3=Наше расследование было проведено так плохо, что {0} узнал о нём и разозлился, потеряв очко лояльности.
+TIMissionEffect_InvestigateCouncilor.MySpecial3=Наше расследование было проведено так плохо, что {0} узнал о нем и разозлился, потеряв очко лояльности.
 TIMissionEffect_Advise.Special1=Пока мне не дадут новые распоряжения, я буду увеличивать выработку очков исследований на {0}, инвестиционных очков на {1}, а также военно-технологический уровень страны на {2}.
 TIMissionEffect_Advise.Special2=Пока мне не дадут новые распоряжения, я буду увеличивать выработку очков исследований на {0}, производство ресурсов и денежных средств на {1}, а также эффективность космодесанта на {2}.
 TIMissionEffect_Advise.Special3=Пока мне не дадут новые распоряжения, я буду увеличивать выработку очков исследований на {1}, а также количество очков военно-морского флота на {0}.
@@ -333,8 +333,8 @@ TIMissionModifier.Flat={0} ({1}) //Модификатор (3)
 TIMissionModifier.CodexHeader=<h>Атакующие модификаторы<line-height=0.01%><br/><align=right>Защитные модификаторы</align></line-height></h>
 TIMissionModifier_FlatModifier.displayName=Сложность задания
 TIMissionModifier_TargetNationGDP.displayName=Размер экономики
-TIMissionModifier_NationCohesion.displayName=Сплочённость
-TIMissionModifier_InvertedNationCohesion.displayName=Сплочённость
+TIMissionModifier_NationCohesion.displayName=Сплоченность
+TIMissionModifier_InvertedNationCohesion.displayName=Сплоченность
 TIMissionModifier_NationPopulation.displayName=Население
 TIMissionModifier_NationUnrest.displayName=Стабильность
 TIMissionModifier_NationStability.displayName=Стабильность

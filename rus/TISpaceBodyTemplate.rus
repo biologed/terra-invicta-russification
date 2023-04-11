@@ -1,7 +1,7 @@
 TISpaceBodyTemplate.displayName.Sol=Солнце
 TISpaceBodyTemplate.bodyAltName.Sol=Солнце
 TISpaceBodyTemplate.classification.Sol=Звезда
-TISpaceBodyTemplate.descriptor1.Sol=Жёлтый карлик
+TISpaceBodyTemplate.descriptor1.Sol=Желтый карлик
 TISpaceBodyTemplate.descriptor2.Sol=
 TISpaceBodyTemplate.discovery_year.Sol=В древности
 TISpaceBodyTemplate.displayName.Mercury=Меркурий
@@ -2014,7 +2014,7 @@ TISpaceBodyTemplate.classification.Cagn=Карликовая планета
 TISpaceBodyTemplate.descriptor1.Cagn=Карликовая планета пояса Койпера
 TISpaceBodyTemplate.descriptor2.Cagn=Классический объект пояса Койпера
 TISpaceBodyTemplate.discovery_year.Cagn=2011
-TISpaceBodyTemplate.displayName.Voluspa=Вёльва
+TISpaceBodyTemplate.displayName.Voluspa=Вельва
 TISpaceBodyTemplate.bodyAltName.Voluspa=2014 UM33
 TISpaceBodyTemplate.classification.Voluspa=Карликовая планета
 TISpaceBodyTemplate.descriptor1.Voluspa=Транснептуновый объект
