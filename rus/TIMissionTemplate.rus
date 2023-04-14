@@ -55,8 +55,8 @@ TIMissionTemplate.displayName.BuildFacility=Основать базу прише
 TIMissionTemplate.description.BuildFacility=Построить исследовательскую базу для поддержки инопланетных операций и транспорта и позволить нам передать им прямой контроль над народами Земли. Требуется не менее 15 похищений в регионе.
 TIMissionTemplate.Success.BuildFacility=Мы построили безопасный объект для инопланетян в {targetRegionName} {targetNationNameWithPrep}. Теперь мы можем использовать миссию Grant Alien Control здесь, если у нас есть все контрольные точки в этой стране.
 
-TIMissionTemplate.displayName.SetNationalPolicy=Управление государственными решениями
-TIMissionTemplate.description.SetNationalPolicy=С помощью контроля над правительством страны отправить советника управлять государственными решениями, например, чтобы объявить войну.
+TIMissionTemplate.displayName.SetNationalPolicy=Управление государством
+TIMissionTemplate.description.SetNationalPolicy=Благодаря контролю над правительством страны отправить советника управлять государственными решениями чтобы, например, объявить войну.
 TIMissionTemplate.Success.SetNationalPolicy=Я успешно прибыл в правительство для управления государственным решениями {targetNationNameWithPrep}.
 
 TIMissionTemplate.displayName.Contact=Переговоры
@@ -447,7 +447,7 @@ TIMissionCondition_DefendableAsset=Должна быть хотя бы одна 
 TIMissionCondition_ScannableObjectWithMyControlPoints1=Вы не владеете контрольными точками в этой локации
 TIMissionCondition_ScannableObjectWithMyControlPoints2=Вы не владеете этой станцией или базой
 TIMissionCondition_ScannableObjectWithMyControlPoints3=Вы не владеете этим флотом
-TIMissionCondition_ExecutiveControl=Невозможно управлять государственными решениями без контроля над правительством
+TIMissionCondition_ExecutiveControl=Невозможно управлять государством без контроля над правительством
 TIMissionCondition_MinimumGlobalAbductions_HigherValue=Требуется похитить больше людей, прежде чем мы сможем выполнить эту миссию
 TIMissionCondition_MinimumGlobalAbductions_LowerValue=Требуется похитить больше людей, прежде чем мы сможем выполнить эту миссию
 TIMissionCondition_ProtectTarget=Должен быть одним из наших

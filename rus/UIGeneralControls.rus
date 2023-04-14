@@ -4,7 +4,7 @@ UI.GeneralControls.ResourcesLoss={0}{1} //значение, ежедневный
 UI.GeneralControls.ResourcesSmallLoss={0}-{1}//значение, ежедневный доход. Этот формат противодействует «N2», удаляя символ минуса для усеченных негативов.
 UI.GeneralControls.ResourcesUsage={0}/{1} //доход, использование
 UI.GeneralControls.NoIncomeTip=Выработки очков нет. //ресурс
-UI.GeneralControls.IncomeTip=Ежедневно вырабатывается {0} очков: //ежедневный доход
+UI.GeneralControls.IncomeTip=Ежедневно вырабатывается {0} очков от: //ежедневный доход
 UI.GeneralControls.BaseIncomeTip=– {0} от штаб-квартиры фракции //ежедневный доход
 UI.GeneralControls.NationIncomeTip=– {0} от стран //ежедневный доход
 UI.GeneralControls.NationInfluenceIncomeTip=– {0} от общественной поддержки //ежедневный доход
@@ -57,8 +57,8 @@ UI.GeneralControls.ExoticsDetail=Экзотика – это странный к
 UI.GeneralControls.InsufficientSpaceResource=Мы компенсируем дефицит, тратя ускорение на транспортировку материалов с Земли.
 UI.GeneralControls.InsufficientBoost=Наши центры работают с ограниченными возможностями из-за нехватки вспомогательных материалов. Нашим врагам их будет намного легче захватить, и в любой момент они могут потерпеть критические сбои.
 UI.GeneralControls.CPCapDetails1=Доступно {0} очков контроля при ограничении в {1} очков.
-UI.GeneralControls.CPCapDetailsCost=<br/><align=center>------------------------------</align><br/>Превышение лимита приводит к ежедневному штрафу к выработке очков влияния ({0}{1}) и снизит уровень сложности заданий на ваших территориях для вражеских фракций. Чтобы увеличить доступное количество очков контроля вы можете отказаться от контроля над точками, исследовать проекты или улучшить навыки советников (<sprite name=attribute_administration> АДМ, <sprite name=attribute_command> КМД и <sprite name=attribute_persuasion> УБЖ).
-UI.GeneralControls.CPCapDetailsWarn=<br/><align=center>------------------------------</align><br/>Превышение лимита приведет к ежедневному штрафу к очкам влияния вашей фракции и повысит вероятность успеха у заданий других фракций, направленных против ваших контрольных точек. Чтобы увеличить доступное количество очков контроля вы можете отказаться от контроля над точками, исследовать проекты или улучшить навыки советников (<sprite name=attribute_administration> АДМ, <sprite name=attribute_command> КМД и <sprite name=attribute_persuasion> УБЖ).
+UI.GeneralControls.CPCapDetailsCost=<br/><align=center>______________________________</align><br/>Превышение лимита приводит к ежедневному штрафу к выработке очков влияния ({0}{1}) и снизит уровень сложности заданий на ваших территориях для вражеских фракций. Чтобы увеличить доступное количество очков контроля вы можете отказаться от контроля над точками, исследовать проекты или улучшить навыки советников (<sprite name=attribute_administration> АДМ, <sprite name=attribute_command> КМД и <sprite name=attribute_persuasion> УБЖ).
+UI.GeneralControls.CPCapDetailsWarn=<br/><align=center>______________________________</align><br/>Превышение лимита приведет к ежедневному штрафу к очкам влияния вашей фракции и повысит вероятность успеха у заданий других фракций, направленных против ваших контрольных точек. Чтобы увеличить доступное количество очков контроля вы можете отказаться от контроля над точками, исследовать проекты или улучшить навыки советников (<sprite name=attribute_administration> АДМ, <sprite name=attribute_command> КМД и <sprite name=attribute_persuasion> УБЖ).
 UI.GeneralControls.StrategySpeed0=Пауза
 UI.GeneralControls.StrategySpeed1=>
 UI.GeneralControls.StrategySpeed2=>>
@@ -75,7 +75,7 @@ UI.GeneralControls.PromptSelectSpaceCombatStance= не укажите постр
 UI.GeneralControls.PromptSelectSpaceCombatBid= не укажите затрачиваемое Дельта-V
 UI.GeneralControls.PromptSelectProject= не выберите новый инженерный проект
 UI.GeneralControls.PromptSelectTech= не выберите новое глобальное исследование
-UI.GeneralControls.PromptSelectPolicy= не завершите действия с государственными решениями
+UI.GeneralControls.PromptSelectPolicy= не завершите действия с управлением государством
 UI.GeneralControls.PromptRespondToAllyOffensiveWarCall= не ответите на запрос союзника о вступлении в войну
 UI.GeneralControls.PromptRespondToEndRivalryCall= не ответите на запрос страны о прекращении соперничества
 UI.GeneralControls.PromptRespondToFormAllianceCall= не ответите на запрос страны о присоединении к федерации

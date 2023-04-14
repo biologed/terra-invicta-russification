@@ -17,4 +17,4 @@ UI.MissionPhase.NoTargetLocation=Некоторые цели задания мо
 UI.MissionPhase.BadTrait={0}: {1}
 UI.MissionPhase.NoTargetsHelp=Нельзя назначить советника на это задание по следующим причинам:
 UI.MissionPhase.Unknown=Unknown
-UI.MissionPhase.AIWorking=Enemies are planning
+UI.MissionPhase.AIWorking=Ход ИИ
