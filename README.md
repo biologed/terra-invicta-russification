@@ -1,3 +1,5 @@
+Руссификатор Terra Invicta
+---
 - TIArmyTemplate.rus                                     - __100%__ (487)
 - TIBatteryTemplate.rus                                  - __100%__ (22)
 - TICinematicsTemplate.rus                               - __100%__ (106)
@@ -28,7 +30,7 @@
 - TIObjectiveTemplate.rus                                - __0%__ (1260)
 - TIOperationTemplate.rus                                - __0%__ (113)
 - TIOrbitTemplate.rus                                    - __100%__ (765)
-- TIOrgTemplate.rus                                      - __0%__ (274)
+- TIOrgTemplate.rus                                      - __100%__ (274)
 - TIParticleWeaponTemplate.rus                           - __0%__ (34)
 - TIPlasmaWeaponTemplate.rus                             - __0%__ (32)
 - TIPolicyTemplate.rus                                   - __0%__ (75)
@@ -69,4 +71,4 @@
 - UISpaceCombat.rus                                      - __0%__ (110)
 - UIStartScreen.rus                                      - __75%__ (1357)
 ---
-10790/21645                                               - __49%__
+11064/21645                                               - __51%__

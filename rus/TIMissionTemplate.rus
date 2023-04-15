@@ -55,7 +55,7 @@ TIMissionTemplate.displayName.BuildFacility=Основать базу прише
 TIMissionTemplate.description.BuildFacility=Построить исследовательскую базу для поддержки инопланетных операций и транспорта и позволить нам передать им прямой контроль над народами Земли. Требуется не менее 15 похищений в регионе.
 TIMissionTemplate.Success.BuildFacility=Мы построили безопасный объект для инопланетян в {targetRegionName} {targetNationNameWithPrep}. Теперь мы можем использовать миссию Grant Alien Control здесь, если у нас есть все контрольные точки в этой стране.
 
-TIMissionTemplate.displayName.SetNationalPolicy=Управление государством
+TIMissionTemplate.displayName.SetNationalPolicy=Управление правительством
 TIMissionTemplate.description.SetNationalPolicy=Благодаря контролю над правительством страны отправить советника управлять государственными решениями чтобы, например, объявить войну.
 TIMissionTemplate.Success.SetNationalPolicy=Я успешно прибыл в правительство для управления государственным решениями {targetNationNameWithPrep}.
 
