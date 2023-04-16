@@ -230,7 +230,7 @@ TIMissionTemplate.Failure.Stabilize=Мне не удалось снизить у
 TIMissionTemplate.CriticalFailure.Stabilize=Мои попытки снизить уровень беспорядков {targetNationNameWithPrep} обернулись катастрофой из-за чего страна еще больше дестабилизируется на {returnedValue}
 
 TIMissionTemplate.displayName.StealProject=Кража проекта
-TIMissionTemplate.description.StealProject=Украдите инженерный проект у фракции, используя модуль на одного из вражеских советников, станцию или базу. Мы также можем приобрести <sprite name="research">, если вражеская фракция опережает нас в наборе очков науки.
+TIMissionTemplate.description.StealProject=Украдите частный проект у фракции, используя модуль на одного из вражеских советников, станцию или базу. Мы также можем приобрести <sprite name="research">, если вражеская фракция опережает нас в наборе очков науки.
 TIMissionTemplate.CriticalSuccess.StealProject=Мне удалось получить доступ к исследовательским архивам {targetFactionName}. {returnedValue} Теперь мы можем выбрать один из их проектов для кражи.
 TIMissionTemplate.Success.StealProject=Мне удалось получить доступ к исследовательским архивам {targetFactionName}. {returnedValue}
 TIMissionTemplate.Failure.StealProject=Мне не удалось получить доступ к исследовательским архивам {targetFactionName}.
