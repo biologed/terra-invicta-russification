@@ -48,7 +48,7 @@
 - TITraitTemplate.rus                                    - __75%__ (222)
 - TIUtilityModuleTemplate.rus                            - __0%__ (85)
 - TIVictoryTemplate.rus                                  - __0%__ (16)
-- UIArmy.rus                                             - __0%__ (13)
+- UIArmy.rus                                             - __50%__ (13)
 - UICodex.rus                                            - __0%__ (289)
 - UICouncil.rus                                          - __75%__ (16)
 - UICouncilor.rus                                        - __50%__ (189)
@@ -63,12 +63,12 @@
 - UINation.rus                                           - __75%__ (422)
 - UINations.rus                                          - __75%__ (46)
 - UINotifications.rus                                    - __0%__ (636)
-- UIObjectives.rus                                       - __0%__ (627)
-- UIOperations.rus                                       - __0%__ (48)
+- UIObjectives.rus                                       - __60%__ (627)
+- UIOperations.rus                                       - __50%__ (48)
 - UIOptions.rus                                          - __75%__ (182)
 - UIScience.rus                                          - __75%__ (96)
 - UISpace.rus                                            - __75%__ (57)
 - UISpaceCombat.rus                                      - __0%__ (110)
 - UIStartScreen.rus                                      - __75%__ (1357)
 ---
-11064/21645                                               - __51%__
+11471/21645                                               - __52%__

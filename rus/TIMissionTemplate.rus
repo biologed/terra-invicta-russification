@@ -71,14 +71,14 @@ TIMissionTemplate.Failure.ControlSpaceAsset=Мне не удалось спро�
 TIMissionTemplate.CriticalFailure.ControlSpaceAsset=Мне не удалось спровоцировать восстание на {targetDisplayName}. Силы здесь на страже будущих попыток мятежа, и вскоре я должен быть арестован {targetFactionName}!
 
 TIMissionTemplate.displayName.Coup=Государственный переворот
-TIMissionTemplate.description.Coup=Свергнуть правительство и освободить контрольные точки.
+TIMissionTemplate.description.Coup=Свергнуть правительство и сбросить вражеский контроль над захваченными контрольными точками.
 TIMissionTemplate.CriticalSuccess.Coup=Моя попытка государственного переворота {targetNationNameWithPrep} увенчалась ошеломляющим успехом, и мы получили значительную власть в новом режиме.
 TIMissionTemplate.Success.Coup=Моя попытка государственного переворота {targetNationNameWithPrep} увенчалась успехом, и мы изменили там структуру власти.
 TIMissionTemplate.Failure.Coup=Я провалил свою миссию {missionName} {targetNationNameWithPrep}.
 TIMissionTemplate.CriticalFailure.Coup=Катастрофа! Мне не удалось свергнуть правительство {targetNationNameWithPrep}! {returnedValue}
 
 TIMissionTemplate.displayName.Crackdown=Подавление
-TIMissionTemplate.description.Crackdown=Временно отключает защиту вражеских контрольных точек, облегчая задание «Зачистка».
+TIMissionTemplate.description.Crackdown=Временно отключает защиту вражеских контрольных точек, облегчая выполнение задания «Зачистка».
 TIMissionTemplate.CriticalSuccess.Crackdown=Мы провели успешное подавление {targetFactionName} {targetNationNameWithPrep}. Их контрольная точка {controlPointTypeDisplayName} будет отключена до {returnedValue}.
 TIMissionTemplate.Success.Crackdown=Мы провели успешное подавление {targetFactionName} {targetNationNameWithPrep}. Их контрольная точка {controlPointTypeDisplayName} будет отключена до {returnedValue}.
 TIMissionTemplate.Failure.Crackdown=Наша попытка подавить {targetFactionName} {targetNationNameWithPrep} не удалась.
@@ -263,7 +263,7 @@ TIMissionTemplate.Failure.Turn=Нам не удалось обратить {targ
 TIMissionTemplate.CriticalFailure.Turn=Мне не удалось привлечь {targetDisplayName} к нашему делу, и похоже, что {targetFactionName} раскрыли меня во время выполнения задания.
 
 TIMissionTemplate.displayName.Unrest=Дестабилизация страны
-TIMissionTemplate.description.Unrest=Усилить беспорядки в стране, чтобы увеличить вероятность переворота, революции и отделения.
+TIMissionTemplate.description.Unrest=Усилить беспорядки в стране, тем самым подстегнув вероятность переворота, революции и отделения.
 TIMissionTemplate.CriticalSuccess.Unrest=Мои усилия увеличили беспорядки {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}. Теперь у нас есть некоторая поддержка среди повстанческих движений здесь, если они когда-нибудь свергнут правительство.
 TIMissionTemplate.Success.Unrest=Мои усилия увеличили беспорядки {targetNationNameWithPrep} на {returnedValue} до {targetNationUnrestWithString}. Теперь у нас есть некоторая поддержка среди повстанческих движений здесь, если они когда-нибудь свергнут правительство.
 TIMissionTemplate.Failure.Unrest=Мне не удалось увеличить беспорядки {targetNationNameWithPrep}.
