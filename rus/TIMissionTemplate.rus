@@ -7,8 +7,8 @@ TIMissionTemplate.CriticalFailure.Abductions=Нам не удалось собр
 
 TIMissionTemplate.displayName.GainInfluence=Захват контрольной точки
 TIMissionTemplate.description.GainInfluence=Захватить свободную контрольную точку в стране.
-TIMissionTemplate.CriticalSuccess.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep} для фракции «{myFactionName}», кроме того общественная поддержка нашей фракции увеличилась на {returnedValue}. Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
-TIMissionTemplate.Success.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep} для фракции «{myFactionName}». Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
+TIMissionTemplate.CriticalSuccess.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep}, кроме того общественная поддержка нашей фракции увеличилась на {returnedValue}. Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
+TIMissionTemplate.Success.GainInfluence=Мне удалось захватить контрольную точку {targetNationNameWithPrep}. Теперь мы контролируем {myTargetNationControlPoints} из {totalTargetNationControlPoints} контрольных точек.
 TIMissionTemplate.Failure.GainInfluence=Мое задание «Захват контрольной точки» {targetNationNameWithPrep} провалилось.
 TIMissionTemplate.CriticalFailure.GainInfluence=Я потерпел серьезную неудачу во время выполнения задания «Захват контрольной точки» {targetNationNameWithPrep}, в результате чего общественная поддержка нашей фракции снизилась {returnedValue}.
 
@@ -27,7 +27,7 @@ TIMissionTemplate.Failure.Purge=Мне не удалось Зачистка ми
 TIMissionTemplate.CriticalFailure.Purge=Мне не удалось выполнить задание Зачистка {returnedValue} {targetNationNameWithPrep}. Мои усилия, вероятно, были разоблачены нашими врагами, и мы потеряли там некоторую общественную поддержку.
 
 TIMissionTemplate.displayName.Advise=Занять пост советника
-TIMissionTemplate.description.Advise=Отправить советника в страну, базу или станцию для ускорения исследований, усиления боевых возможностей и повышения финансовых показателей (отправка нескольких советников снизит бонус  ).
+TIMissionTemplate.description.Advise=Отправить советника в страну, базу или станцию для ускорения исследований, усиления боевых возможностей и повышения финансовых показателей (отправка нескольких советников снизит суммарный бонус).
 TIMissionTemplate.Success.Advise=Думаю теперь {targetDisplayName} будет лучше использовать свои ресурсы. {returnedValue}
 
 TIMissionTemplate.displayName.Assassinate=Устранение советника
@@ -86,7 +86,7 @@ TIMissionTemplate.CriticalFailure.Crackdown=Наша попытка подави
 
 TIMissionTemplate.displayName.DefendInterests=Укрепление контрольных точек
 TIMissionTemplate.description.DefendInterests=Укрепить контрольные точки страны, защитив их от подавлений, зачисток и переворотов. Продолжительность действия укрепления снижается с увеличением количества контрольных точек, которые мы укрепили.
-TIMissionTemplate.Success.DefendInterests=Я разместил нужных людей в нужных местах, и наш элемент управления {targetDisplayNameSent} теперь защищен до {returnedValue}. Вражеские группировки, пытающиеся вырвать у нас контроль, понесут значительные штрафы.
+TIMissionTemplate.Success.DefendInterests=Я усилил контроль {targetDisplayNameSent}, теперь наши контрольные точки в регионе будут защищены до {returnedValue}. Вражеским фракциям потребуется очень много ресурсов, чтобы перехватить у нас контроль над этим регионом.
 
 TIMissionTemplate.displayName.Detain=Допрос советника
 TIMissionTemplate.description.Detain=Задержать советника, чтобы допросить и сорвать планы вражеской фракции.
@@ -100,7 +100,7 @@ TIMissionTemplate.Detain.DetainAlien=Допросы принесли плоды.
 
 TIMissionTemplate.displayName.DetectCouncilActivity=Разведка
 TIMissionTemplate.description.DetectCouncilActivity=Провести разведывательную операцию, чтобы попытаться обнаружить вражеских советников, пришельцев и их скрытые объекты в регионе и соседних территориях, а также на базе, станции или во флоте.
-TIMissionTemplate.Success.DetectCouncilActivity=Я успешно разведал регион {targetDisplayNameSent}.
+TIMissionTemplate.Success.DetectCouncilActivity=Обстановка {targetDisplayNameSent} и рядом с ним успешно разведана.
 
 TIMissionTemplate.displayName.EnthrallElites=Подчинение элиты
 TIMissionTemplate.description.EnthrallElites=Инопланетяне получают контрольную точку для своих сторонников-людей в целевой стране.
@@ -153,12 +153,12 @@ TIMissionTemplate.Prompt.HostileTakeover=Выберите организацию
 TIMissionTemplate.displayName.Inspire=Воодушевление
 TIMissionTemplate.description.Inspire=Повысить лояльность другого советника, сделав его более устойчивым к допросам и попыткам обратить его. Также может вернуть на нашу сторону бывшего советника.
 TIMissionTemplate.CriticalSuccess.Inspire=После того, как мы поговорили, наш советник {targetDisplayNameSent}, кажется, с большим энтузиазмом относится к нашим усилиям. {returnedValue}
-TIMissionTemplate.Success.Inspire=Наш советник {targetDisplayNameSent}, кажется, больше воодушевлен этим делом. {returnedValue}
-TIMissionTemplate.Failure.Inspire=Я не думаю, что сильно повлиял на лояльность {targetDisplayNameSent} делу. {returnedValue}
+TIMissionTemplate.Success.Inspire=Советник {targetDisplayNameSent}, кажется, стал больше воодушевлен этим делом. {returnedValue}
+TIMissionTemplate.Failure.Inspire=Я не думаю, что сильно повлиял на лояльность советника {targetDisplayNameSent}. {returnedValue}
 TIMissionTemplate.CriticalFailure.Inspire=Извините, но мне кажется, что я ухудшил ситуацию с {targetDisplayNameSent}. {returnedValue}
 
 TIMissionTemplate.Inspire.PositiveEffect={0} советника увеличилось на {1}.
-TIMissionTemplate.Inspire.NoVisibleEffect=Однако, боюсь, трудно понять, насколько изменилась лояльность советника.
+TIMissionTemplate.Inspire.NoVisibleEffect=Кроме того, трудно понять, насколько изменилась лояльность советника.
 TIMissionTemplate.Inspire.NegativeEffect={0} советника уменьшилось на {1}.
 
 TIMissionTemplate.displayName.InvestigateAlienActivity=Разведка активности пришельцев
@@ -315,7 +315,7 @@ TIMissionEffect_InvestigateCouncilor.EnemySpecial2=У нас также есть
 TIMissionEffect_InvestigateCouncilor.EnemySpecial3=Мы также сможем какое-то время просматривать назначенную советником миссию.
 TIMissionEffect_InvestigateCouncilor.EnemySpecial4=Мы можем знать о {0} больше, чем {1}. Фактический показатель лояльности советника равен {2}.
 TIMissionEffect_InvestigateCouncilor.EnemySpecial5=Мы также узнали, что {0} шпионит в пользу {1}.
-TIMissionEffect_InvestigateCouncilor.MySpecial1=Мы определили их фактический показатель лояльности на уровне {0}.
+TIMissionEffect_InvestigateCouncilor.MySpecial1=Вам стал известен фактический показатель лояльности, который равен {0}.
 TIMissionEffect_InvestigateCouncilor.MySpecial2=Мы узнали, что {0} настроен против нас {1} и шпионит за нами. Это серьезная утечка, которую мы должны устранить как можно скорее.
 TIMissionEffect_InvestigateCouncilor.MySpecial3=Наше расследование было проведено так плохо, что {0} узнал о нем и разозлился, потеряв очко лояльности.
 TIMissionEffect_Advise.Special1=Пока мне не дадут новые распоряжения, я буду увеличивать выработку очков исследований на {0}, инвестиционных очков на {1}, а также военно-технологический уровень страны на {2}.
@@ -345,7 +345,7 @@ TIMissionModifier_HappyElites.displayName=Поддержка элиты
 TIMissionModifier_RegionalDefenses.displayName=Военные в регионе
 TIMissionModifier_AttackerPopulationIdeology.displayName=Общественная поддержка
 TIMissionModifier_DefenderPopulationIdeology.displayName=Общественная поддержка
-TIMissionModifier_DisabledControlPoint.displayName=Расправа
+TIMissionModifier_DisabledControlPoint.displayName=Подавление
 TIMissionModifier_DefenderLocalControlPoints.displayName=Контрольные точки
 TIMissionModifier_AttackerLocalControlPoints.displayName=Контрольные точки
 TIMissionModifier_OwnedControlPoint.displayName=Совет {0}
