@@ -1,7 +1,7 @@
 UI.Markers.CouncilorMarker.Tooltip={0}{1} ({2})</color> //цвет фракции, имя советника, должность советника
 UI.Markers.CouncilorMarker.TooltipWithMission={0}{1} ({2})</color>: {3} ({4}). //цвет фракции, имя советника, должность советника, миссия, цель
 UI.Markers.CouncilorMarker.TooltipWithMissionResolveTime={0}{1} ({2})</color>: {3} ({4}). В работе до {5}. //цвет фракции, имя советника, должность советника, миссия, цель, дата выполнения
-UI.Markers.Capital.TooltipHeader={0} контрольных точек ({1}) //нация, # CP
+UI.Markers.Capital.TooltipHeader={0} контрольных точек ({1})
 UI.Markers.Capital.ControlPoint=#{0} ({1}): {2}
 UI.Markers.Uncontrolled=Неконтролируемый
 UI.Markers.InvalidTarget=Недопустимая цель

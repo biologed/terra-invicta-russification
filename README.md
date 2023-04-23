@@ -40,7 +40,7 @@
 - TIRadiatorTemplate.rus                                 - __0%__ (28)
 - TIRegionTemplate.rus                                   - __75%__ (1206)
 - TIResourceCost.rus                                     - __0%__ (5)
-- TIShipArmorTemplate.rus                                - __0%__ (28)
+- TIShipArmorTemplate.rus                                - __100%__ (28)
 - TIShipCommandTemplate.rus                              - __0%__ (78)
 - TIShipHullTemplate.rus                                 - __0%__ (42)
 - TISpaceBodyTemplate.rus                                - __100%__ (2118)
@@ -71,4 +71,4 @@
 - UISpaceCombat.rus                                      - __0%__ (110)
 - UIStartScreen.rus                                      - __75%__ (1357)
 ---
-11471/21645                                               - __52%__
+11499/21645                                               - __52%__

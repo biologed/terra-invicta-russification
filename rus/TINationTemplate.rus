@@ -146,10 +146,10 @@ TINationTemplate.displayName.DEU=Германская Демократическ
 TINationTemplate.displayNameWithArticle.DEU=Германская Демократическая Республика
 TINationTemplate.nationAdjective.DEU=Немцы
 TINationTemplate.displayNameWithArticlePrep.DEU=в Германской Демократической Республике
-TINationTemplate.displayName.DOM=Великое Содружество
-TINationTemplate.displayNameWithArticle.DOM=Великое Содружество
+TINationTemplate.displayName.DOM=Великий Доминион
+TINationTemplate.displayNameWithArticle.DOM=Великий Доминион
 TINationTemplate.nationAdjective.DOM=Европейцы
-TINationTemplate.displayNameWithArticlePrep.DOM=в Великом Содружестве
+TINationTemplate.displayNameWithArticlePrep.DOM=в Великом Доминионе
 TINationTemplate.displayName.DVD=Дравида Наду
 TINationTemplate.displayNameWithArticle.DVD=Дравида Наду
 TINationTemplate.nationAdjective.DVD=Дравиды
@@ -614,10 +614,10 @@ TINationTemplate.displayName.WES=Западная Австралия
 TINationTemplate.displayNameWithArticle.WES=Западная Австралия
 TINationTemplate.nationAdjective.WES=Австралийцы
 TINationTemplate.displayNameWithArticlePrep.WES=в Западной Австралии
-TINationTemplate.displayName.WGA=Западная Германия
-TINationTemplate.displayNameWithArticle.WGA=Западная Германия
+TINationTemplate.displayName.WGA=Федеративная Республика Германии
+TINationTemplate.displayNameWithArticle.WGA=Федеративная Республика Германии
 TINationTemplate.nationAdjective.WGA=Немцы
-TINationTemplate.displayNameWithArticlePrep.WGA=в Западной Германии
+TINationTemplate.displayNameWithArticlePrep.WGA=в Федеративной Республике Германии
 TINationTemplate.displayName.WUR=Фуцзянь
 TINationTemplate.displayNameWithArticle.WUR=Фуцзянь
 TINationTemplate.nationAdjective.WUR=Китайцы
@@ -643,20 +643,20 @@ TINationTemplate.displayNameWithArticle.ZWE=Зимбабве
 TINationTemplate.nationAdjective.ZWE=Африканцы
 TINationTemplate.displayNameWithArticlePrep.ZWE=в Зимбабве
 
-TINationTemplate.unionDisplayName.AGO=Независимый Бантустан
-TINationTemplate.unionDisplayNameWithArticle.AGO=Независимый Бантустан
+TINationTemplate.unionDisplayName.AGO=Бантунская Конфедерация
+TINationTemplate.unionDisplayNameWithArticle.AGO=Бантунская Конфедерация
 TINationTemplate.unionAdjective.AGO=Банту
-TINationTemplate.unionDisplayNameWithArticlePrep.AGO=в Независимом Бантустане
+TINationTemplate.unionDisplayNameWithArticlePrep.AGO=в Бантунской Конфедерации
 
 TINationTemplate.unionDisplayName.ALN=Федерация Пришельцев
 TINationTemplate.unionDisplayNameWithArticle.ALN=Федерация Пришельцев
 TINationTemplate.unionAdjective.ALN=Пришельцев
 TINationTemplate.unionDisplayNameWithArticlePrep.ALN=в Федерации Пришельцев
 
-TINationTemplate.unionDisplayName.AUS=Республика Южного Креста
-TINationTemplate.unionDisplayNameWithArticle.AUS=Республика Южного Креста
-TINationTemplate.unionAdjective.AUS=Португальцы
-TINationTemplate.unionDisplayNameWithArticlePrep.AUS=в Республике Южного Креста
+TINationTemplate.unionDisplayName.AUS=Австралия
+TINationTemplate.unionDisplayNameWithArticle.AUS=Австралия
+TINationTemplate.unionAdjective.AUS=Австралийцы
+TINationTemplate.unionDisplayNameWithArticlePrep.AUS=в Австралии
 
 TINationTemplate.unionDisplayName.DZA=Магриб
 TINationTemplate.unionDisplayNameWithArticle.DZA=Магриб
@@ -703,15 +703,15 @@ TINationTemplate.unionDisplayNameWithArticle.MYS=Малайский Союз
 TINationTemplate.unionAdjective.MYS=Малайцы
 TINationTemplate.unionDisplayNameWithArticlePrep.MYS=в Малайском союзе
 
-TINationTemplate.unionDisplayName.NGA=Восточноафриканское сообщество
-TINationTemplate.unionDisplayNameWithArticle.NGA=Восточноафриканское сообщество
+TINationTemplate.unionDisplayName.NGA=Нигерийская Конфедерация
+TINationTemplate.unionDisplayNameWithArticle.NGA=Нигерийская Конфедерация
 TINationTemplate.unionAdjective.NGA=Африканцы
-TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Восточноафриканском сообществе
+TINationTemplate.unionDisplayNameWithArticlePrep.NGA=в Нигерийской Конфедерации
 
-TINationTemplate.unionDisplayName.PER=Конфедерация Перу и Боливии
-TINationTemplate.unionDisplayNameWithArticle.PER=Конфедерация Перу и Боливии
+TINationTemplate.unionDisplayName.PER=Перуанская Конфедерация
+TINationTemplate.unionDisplayNameWithArticle.PER=Перуанская Конфедерация
 TINationTemplate.unionAdjective.PER=Латиноамериканцы
-TINationTemplate.unionDisplayNameWithArticlePrep.PER=в конфедерации Перу и Боливии
+TINationTemplate.unionDisplayNameWithArticlePrep.PER=в Перуанской Конфедерации
 
 TINationTemplate.unionDisplayName.PRK=Корейская Народная Республика
 TINationTemplate.unionDisplayNameWithArticle.PRK=Корейская Народная Республика
@@ -765,18 +765,18 @@ TINationTemplate.unionDisplayNameWithArticlePrep.IDN=в Индонезии
 
 TINationTemplate.unionDisplayName.RUS=Евразийский союз
 TINationTemplate.unionDisplayNameWithArticle.RUS=Евразийский союз
-TINationTemplate.unionAdjective.RUS=Евроазиаты
+TINationTemplate.unionAdjective.RUS=Евразийцы
 TINationTemplate.unionDisplayNameWithArticlePrep.RUS=в Евразийском союзе
 
-TINationTemplate.unionDisplayName.SCA=Скандинавская Федерация
-TINationTemplate.unionDisplayNameWithArticle.SCA=Скандинавская Федерация
+TINationTemplate.unionDisplayName.SCA=Скандинавия
+TINationTemplate.unionDisplayNameWithArticle.SCA=Скандинавия
 TINationTemplate.unionAdjective.SCA=Скандинавы
-TINationTemplate.unionDisplayNameWithArticlePrep.SCA=в Скандинавской Федерации
+TINationTemplate.unionDisplayNameWithArticlePrep.SCA=в Скандинавии
 
-TINationTemplate.unionDisplayName.UGN=Западноафриканское Содружество
-TINationTemplate.unionDisplayNameWithArticle.UGN=Западноафриканское Содружество
+TINationTemplate.unionDisplayName.UGN=Западноафриканский Союз
+TINationTemplate.unionDisplayNameWithArticle.UGN=Западноафриканский Союз
 TINationTemplate.unionAdjective.UGN=Африканцы
-TINationTemplate.unionDisplayNameWithArticlePrep.UGN=в Западноафриканском Содружестве
+TINationTemplate.unionDisplayNameWithArticlePrep.UGN=в Западноафриканском Союзе
 
 TINationTemplate.unionDisplayName.USA=Соединенные Штаты Северной Америки
 TINationTemplate.unionDisplayNameWithArticle.USA=Соединенные Штаты Северной Америки
@@ -927,10 +927,10 @@ TINationTemplate.displayNameWithArticle.SEG=Сенегал
 TINationTemplate.nationAdjective.SEG=Сенегальцы
 TINationTemplate.displayNameWithArticlePrep.SEG=в Сенегале
 
-TINationTemplate.unionDisplayName.SEG=Западноафриканское Содружество
-TINationTemplate.unionDisplayNameWithArticle.SEG=Западноафриканское Содружество
+TINationTemplate.unionDisplayName.SEG=Западноафриканский Союз
+TINationTemplate.unionDisplayNameWithArticle.SEG=Западноафриканский Союз
 TINationTemplate.unionAdjective.SEG=Африканцы
-TINationTemplate.unionDisplayNameWithArticlePrep.SEG=в Западноафриканском Содружестве
+TINationTemplate.unionDisplayNameWithArticlePrep.SEG=в Западноафриканском Союзе
 
 TINationTemplate.displayName.SLO=Словакия
 TINationTemplate.displayNameWithArticle.SLO=Словакия
