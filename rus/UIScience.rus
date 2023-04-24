@@ -105,4 +105,4 @@ UI.Science.ProjectStatus3=Этот проект доступен для иссл
 UI.Science.ProjectStatus4=Наши ученые готовят этот проект для исследованию.
 UI.Science.ProjectStatus5=Наши ученые отказались от этого проекта.
 UI.Science.ProjectStatus6=Вероятность разблокирования этого проекта после выполнения всех условий равен –{0}.
-UI.Science.StationWeapon={0} will be deployed on tier {1} defensive station modules.
+UI.Science.StationWeapon={0} может быть установлено на боевой комплекс станции {1} уровня.
