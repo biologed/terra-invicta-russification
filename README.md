@@ -67,8 +67,8 @@
 - TIRegionTemplate.rus                                   - __100%__ (1207)
 - TIObjectiveTemplate.rus                                - __0%__ (1274)
 - UIStartScreen.rus                                      - __100%__ (1366)
-- TIProjectTemplate.rus                                  - __0%__ (1533)
+- TIProjectTemplate.rus                                  - __63%__ (970/1533)
 - TISpaceBodyTemplate.rus                                - __100%__ (2118)
 - TINarrativeEventTemplate.rus                           - __0%__ (2782)
 ---
-12121/22161                                               - __54%__
+13091/22161                                               - __59%__
