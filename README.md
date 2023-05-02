@@ -1,4 +1,4 @@
-Руcификатор Terra Invicta
+Руссификатор Terra Invicta
 ---
 - TIResourceCost.rus                                     - __100%__ (5)
 - TICouncilorTemplate.rus                                - __100%__ (12)
