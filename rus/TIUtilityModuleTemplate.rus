@@ -1,7 +1,7 @@
 TIUtilityModuleTemplate.displayName.ISRUModule=Модуль ISRU
-TIUtilityModuleTemplate.description.ISRUModule=Модуль использования ресурсов на месте позволит кораблям заправляться топливом на неулучшенных жилых объектах, которые производят сырье, используемое в топливе корабля. Корабли, которые используют <h>что-либо</h> в качестве топлива, могут повторно использовать топливо в любом месте.
+TIUtilityModuleTemplate.description.ISRUModule=The In-Situ Resource Utilization Module will allow ships to re-propellant at unimproved hab sites that produce raw materials used in the ship's propellant. Ships that that have <h>anything</h> listed as their propellant may re-propellant at any site.
 TIUtilityModuleTemplate.displayName.RemassScoop=Топливозаборник
-TIUtilityModuleTemplate.description.RemassScoop=Совок для восстановления массы придает кораблю аэродинамические качества, предотвращая повреждения от аэродинамического торможения, и позволяет ему пополнять запасы топлива <h>водородом</h> с интерфейсных орбит юпитерианских планет. Корабли, использующие <h>что угодно</h> в качестве топлива, также могут заправляться на юпитерианских мирах.
+TIUtilityModuleTemplate.description.RemassScoop=The remass scoop gives the ship aerodynamic qualities, preventing damage from aerobraking, and allows it to refill <h>hydrogen</h> propellant stores with <color=#FFFFFFFF><sprite name="water"></color> as its only component from interface orbits of Jovian planets. Ships that have <h>anything</h> listed their as propellant may re-propellant at Jovian worlds as well.
 TIUtilityModuleTemplate.displayName.MuonSpiker=Мюонный спайк
 TIUtilityModuleTemplate.description.MuonSpiker=Мюоны используются в качестве катализатора в термоядерной реакции, увеличивая на {1} тягу наших двигателей.
 TIUtilityModuleTemplate.displayName.NeutroniumSpiker=Нейтрониевый спайк
@@ -18,6 +18,12 @@ TIUtilityModuleTemplate.displayName.AdvancedMarineAssaultUnit=Усовершен
 TIUtilityModuleTemplate.description.AdvancedMarineAssaultUnit=Позволяет кораблю атаковать хабы. Значение атаки: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
 TIUtilityModuleTemplate.displayName.EliteMarineAssaultUnit=Элитное штурмовое подразделение морской пехоты
 TIUtilityModuleTemplate.description.EliteMarineAssaultUnit=Позволяет кораблю атаковать хабы. Значение атаки: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Spartans=Spartans
+TIUtilityModuleTemplate.description.Spartans=Fanatic and elite Marine unit for our ships. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Rangers=Rangers
+TIUtilityModuleTemplate.description.Rangers=Veteran space Marine unit for our ships. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
+TIUtilityModuleTemplate.displayName.Immortals=Immortals
+TIUtilityModuleTemplate.description.Immortals=Our most devoted and expert space Marines. Assault Value: <color=#FFFFFFFF><sprite name="army_level"></color>{3}.
 TIUtilityModuleTemplate.displayName.LaserEngine=Лазерный модуль
 TIUtilityModuleTemplate.description.LaserEngine=Увеличивает мощность всего лазерного оружия на {0} МДж, что означает, что лазерное оружие этого корабля наносит больше урона на больших расстояниях. Бонусные стеки с дополнительными модулями лазерного двигателя.
 TIUtilityModuleTemplate.displayName.AdvancedLaserEngine=Усовершенствованный лазерный движок

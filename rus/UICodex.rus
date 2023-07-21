@@ -1,4 +1,4 @@
-UI.Codex.Title=Кодекс
+UI.Codex.Title=Codex
 UI.Codex.codex_welcome.Title=Introduction
 UI.Codex.codex_welcome0=This codex contains information about playing Terra Invicta. Select a topic to the left for details on game mechanics.<br/><br/>New topics may occasionally appear when technologies unlock new mechanics.<br/><br/>For information on how to navigate the game's interfaces, please start a campaign as the Resistance with the tutorial activated.
 UI.Codex.codex_factions.Title=Factions
@@ -139,15 +139,43 @@ UI.Codex.codex_publicOpinion0=The people of Earth all hold a particular viewpoin
 UI.Codex.codex_publicOpinion1=These viewpoints track with the ideologies of each faction, along with an "undecided" viewpoint in the middle of all of them. Ideologies have a position relative to each other; when events have a chance to change someone's opinion, they will typically move to something nearby -- a Resistance supporter could see their views radicalize to those of Humanity First, or soften to being simply undecided, for example.
 UI.Codex.codex_publicOpinion2=Public support for your faction is a primary source of the influence resource. You will also receive bonuses on missions in nations where a large portion of the public is on your side.
 UI.Codex.codes_publicOpinion3=A potential mover of public opinion are atrocities committed by a faction. Atrocities are actions that cause mass death or suffering, and responsible factions suffer the loss of supporters as a result. Atrocities are cumulative; as a faction commits more, the public opinion penalty increases dramatically.
-UI.Codex.codex_priorities.Title=Priorites and Economy
+UI.Codex.codex_priorities.Title=National Priorites
 UI.Codex.codex_priorities0=Investment Points represent surplus economic capital created by a nation. Every nation generates a certain number of Investment Points based on the size of its economy, with subtractions for unrest and the number of armies it has. A nation's <h>priorities</h> control the distribution of these Investment Points. The owner of each control point may direct a share of Investment Points into any number of priorities.
 UI.Codex.codex_priorities1=Investments are distributed by setting weights (0, 1, 2 or 3) for each priority, and the amount of investment going to a particular priority depends on the total number of weights set for a particular control point.
 UI.Codex.codex_priorities2=Investment Points gradually fill buckets for each priority; once filled, the nation receives the effects of that priority, and in most cases it may be filled again.
 UI.Codex.codex_priorities3=Factions may also invest directly in nations by spending money and influence on priorites they chose. This can lead to the rapid completion of armies, launch facilities and other assets. However, a nation can only receive a certain amount of direct investment per year.
+UI.Codex.codex_priority_economy.Title=<color=#FFFFFFFF><sprite name=economy></color>Economy
+UI.Codex.codex_priority_economy0=<LOC,UI.Nation.EconomyPriorityGeneric>
+UI.Codex.codex_priority_welfare.Title=<color=#FFFFFFFF><sprite name=welfare></color>Welfare
+UI.Codex.codex_priority_welfare0=<LOC,UI.Nation.WelfarePriorityGeneric>
+UI.Codex.codex_priority_knowledge.Title=<color=#FFFFFFFF><sprite name=knowledge></color>Knowledge
+UI.Codex.codex_priority_knowledge0=<LOC,UI.Nation.KnowledgePriorityGeneric>
+UI.Codex.codex_priority_unity.Title=<color=#FFFFFFFF><sprite name=unity></color>Unity
+UI.Codex.codex_priority_unity0=<LOC,UI.Nation.UnityPriorityGeneric>
+UI.Codex.codex_priority_military.Title=<color=#FFFFFFFF><sprite name=military_org></color>Military
+UI.Codex.codex_priority_military0=<LOC,UI.Nation.MilitaryPriorityGeneric>
+UI.Codex.codex_priority_spoils.Title=<color=#FFFFFFFF><sprite name=spoils></color>Spoils
+UI.Codex.codex_priority_spoils0=<LOC,UI.Nation.SpoilsPriorityGeneric>
+UI.Codex.codex_priority_spaceDevelopment.Title=<color=#FFFFFFFF><sprite name=funding></color>Funding
+UI.Codex.codex_priority_spaceDevelopment0=<LOC,UI.Nation.SpaceDevelopmentPriorityGeneric>
+UI.Codex.codex_priority_spaceflight.Title=<color=#FFFFFFFF><sprite name=spaceflight_program></color>Spaceflight Program
+UI.Codex.codex_priority_spaceflight0=<LOC,UI.Nation.SpaceflightProgramPriorityGeneric>
+UI.Codex.codex_priority_launchFacilities.Title=<color=#FFFFFFFF><sprite name=boost_org></color>Boost
+UI.Codex.codex_priority_launchFacilities0=<LOC,UI.Nation.LaunchFacilitiesPriorityGeneric>
+UI.Codex.codex_priority_missionControl.Title=<color=#FFFFFFFF><sprite name=mission_control_org></color>Mission Control
+UI.Codex.codex_priority_missionControl0=<LOC,UI.Nation.MissionControlPriorityGeneric>
+UI.Codex.codex_priority_buildArmy.Title=<color=#FFFFFFFF><sprite name=build_army></color>Build Army
+UI.Codex.codex_priority_buildArmy0=<LOC,UI.Nation.BuildArmyPriorityGeneric>
+UI.Codex.codex_priority_buildNavy.Title=<color=#FFFFFFFF><sprite name=build_navy></color>Build Navy
+UI.Codex.codex_priority_buildNavy0=<LOC,UI.Nation.UpgradeArmyPriorityGeneric>
+UI.Codex.codex_priority_nuclearWeapons.Title=<color=#FFFFFFFF><sprite name=build_nuclear_weapons></color>Nuclear Weapons
+UI.Codex.codex_priority_nuclearWeapons0=<LOC,UI.Nation.BuildNuclearWeaponsPriorityGeneric>
+UI.Codex.codex_priority_spaceDefenses.Title=<color=#FFFFFFFF><sprite name=build_space_defense></color>Space Defenses
+UI.Codex.codex_priority_spaceDefenses0=<LOC,UI.Nation.BuildSpaceDefensesPriorityGeneric>
 UI.Codex.codex_relations.Title=International Relations
 UI.Codex.codex_relations0=Nations not at war can be in one of three states with one another: they may be allies, or rivals, or have normal relations.
-UI.Codex.codex_relations1=War-capable allies - those with armies or nuclear weapons - will join wars to defend each other when attacked. Allies may also send armies to each other's regions during war or peace.
-UI.Codex.codex_relations2=Rivals are nations that may go to war with each other via the Set Policy councilor mission.
+UI.Codex.codex_relations1=War-capable allies - those with armies or nuclear weapons - will join wars to defend each other when attacked. Allies may also send armies to each other's regions during war or peace. Allies of the lead nation on either side of the war may join a war after it begins.
+UI.Codex.codex_relations2=Rivals are nations that may go to war with each other via the Set Policy councilor mission. Human nations will typically suffer a cohesion loss if they declare war upon a new rival.
 UI.Codex.codex_relations3=In nations where they have executive control, factions may spend influence <color=#FFFFFFFF><sprite name="influence"></color> to change their bilateral relations with other nations. Any action that improves relations - from rivals to normalized relations, or normalized relations to allies - requires the consent of the other nation. Actions that improve relations also trigger a cooldown between the nations for improving relations again.
 UI.Codex.codex_relations4=There are a few restrictions on who can ally and become rivals. Two nonadjacent nations each with only one or two control points may not form alliances or rivalries unless one also has a navy. Nations allied with a breakaway nation cannot ally with breakaway's parent nation; allies of a breakaway's parent cannot ally with the breakaway.
 UI.Codex.codex_relations5=Nations also gain cohesion from having "peer" rivals who have at least one control point fewer than they do.
@@ -158,7 +186,7 @@ UI.Codex.codex_policies0=Policies are actions the executive faction of a nation 
 UI.Codex.codex_terrestrialWarfare.Title=Terrestrial Warfare
 UI.Codex.codex_terrestrialWarfare0=Wars begin when a councilor for the executive faction of one of two rivals selects the War policy against the rival. All war-capable allies of the defending rival (with an army or nuclear weapons) join the war. All war-capable allies of the attacker are given the option to join on the attacker's side.
 UI.Codex.codex_terrestrialWarfare1=To win a war, an army must occupy the enemy's capital region. At that moment, the war ends, triggering a regime change event. Claimed regions change hands to the occupier and its allies. If any of the invaded nation remains, its control point owners are replaced with those of the victor. Some of the nation's stats change when a new regime is installed, sometimes in unpredictable ways, but the new ruling faction will be able to fund Direct Investments into the nation without paying an influence cost for a period of one year. Unoccupied regions and surviving enemy armies will contribute to greater unrest following a regime change.
-UI.Codex.codex_terrestrialWarfare2=Wars may also end with a simple peace where both sides return to the prewar status quo.
+UI.Codex.codex_terrestrialWarfare2=Armies may also annex enemy regions during wartime if their home nation has a claim on that region, but any fighting in the region will interrupt and cancel the attempt. Wars may also end with a simple peace where both sides return to the prewar status quo.
 UI.Codex.codex_armies.Title=Armies
 UI.Codex.codex_armies0=Armies represent multiple modern divisions that are capable of gaining and holding territory in other nations. Control of an army is gained after councilors gain at least partial control of a nation. Most nations don't have armies at the campaign start, but nations with sufficient population can build new ones with enough investment. While powerful, armies are a drag on a nation's economic development and remain subject to the international relations of their home countries, which too can be managed with sufficient control of a nation.
 UI.Codex.codex_armies1=Armies have a headquarters region in their home nation. If located there, they incur a smaller cost to the nation's economic development.
@@ -228,7 +256,7 @@ UI.Codex.codex_shipDesign2=At any time, you can design ships out of the modules 
 UI.Codex.codes_shipDesign3=Critical values to manage when building your ships are mass, acceleration and Delta-V. More mass means less acceleration and a less maneuverable ship. Delta-V measures how much you can change your velocity; it governs how quickly you can get somewhere.
 UI.Codex.codex_hull.Title=Hull
 UI.Codex.codex_hull0=Designing a ship begins with selecting a hull. The type of hull determines the number of nose and hull weapon hard points, the number of utility modules, and the length of the hull.
-UI.Codex.codex_hull1=Shorter ships will have a lower moment of inertia, meaning they will rotate faster than their longer counterparts.
+UI.Codex.codex_hull1=Shorter ships will have a lower amount of inertia, meaning they will rotate faster than their longer counterparts.
 UI.Codex.codex_drive.Title=Drive
 UI.Codex.codex_drive0=<LOC,UI.Fleets.Drive.Description>
 UI.Codex.codex_powerPlant.Title=Power Plant
@@ -246,7 +274,7 @@ UI.Codex.codex_armor.Title=Armor
 UI.Codex.codex_armor0=Armor plating on the ship will absorb incoming weapons fire, preventing damage to internal components. Each point of armor will absorb 20 Megajoules of energy at a single location on the hull before vaporizing. Different armor types require a different thickness and mass to absorb a particular amount of damage.
 UI.Codex.codex_propellantTanks.Title=Propellant Tanks
 UI.Codex.codex_propellantTanks0=Each ship must have one or more 100-ton propellant tanks. The number of propellant tanks determines the ship's Delta-V value.
-UI.Codex.codex_fleets.Title=Флоты
+UI.Codex.codex_fleets.Title=Fleets
 UI.Codex.codex_fleets0=Fleets consist of one or more ships that are directed by one of the human factions or the aliens. Fleets conduct operations and fight in space battles.
 UI.Codex.codex_shipConstruction.Title=Ship Construction
 UI.Codex.codex_shipConstruction0=Individual ships are constructed at habs at a space dock, shipyard, or spaceworks module. Ships may be built out of a mix of resources mined in space and material boosted from Earth. When construction is complete, ships are deployed docked at the hab that built them.
@@ -265,10 +293,11 @@ UI.Codex.codex_transfers2=Trajectories might be <h>microthrust spirals</h>, whic
 UI.Codex.codex_fleetOperations.Title=Fleet Operations
 UI.Codex.codex_fleetOperations0=Fleets may undertake various operations, typically only when they are in orbit and not in a transfer. They are:
 UI.Codex.codex_orbitalBombardment.Title=Orbital Bombardment
-UI.Codex.codex_orbitalBombardment0=A fleet equipped with magnetic or laser weapons may conduct orbital bombardment against targets on the surface of a space body. They must be in an interface orbit to launch attacks.
+UI.Codex.codex_orbitalBombardment0=A fleet equipped with magnetic, laser or nuclear weapons may conduct orbital bombardment against targets on the surface of a space body. They must be in an interface orbit to launch attacks.
 UI.Codex.codex_orbitalBombardment1=Above Earth, valid targets include armies, space facilities, regions, and any alien assets we have detected. On other space bodies, bases and landed space fleets may be targeted.
 UI.Codex.codex_orbitalBombardment2=Certain weapons, such as lasers that fire in ultraviolet wavelenghts, cannot bombard through thicker atmospheres, particularly that of Earth and Titan.
-UI.Codex.codex_orbitalBombardment3=If a targeted hab or region has defenses, they will fire back at the attacking fleet.
+UI.Codex.codex_orbitalBombardment3=If a targeted hab or region has defenses, they will fire back at the attacking fleet and attempt to shoot down projectiles and missiles.
+UI.Codex.codex_orbitalBombardment4=The bombarding fleet may choose the altitude it engages the target at, trading off risk for damage. At higher altitudes, lasers on both sides will be less effective, and the defenses will have a greater opportunity to shoot down projectiles and missiles.
 UI.Codex.codex_spaceCombat.Title=Space Combat
 UI.Codex.codex_spaceCombat0=When two fleets from enemy factions meet in an orbit, deep space, or at a station, a space battle begins. Players may elect to autoresolve combats.
 UI.Codex.codex_spaceCombat1=Before a battle begins, each fleet will select from one of three stances: Engage, Accept, or Evade. At least one fleet must select "Engage" for a battle to occur; if the other fleet selects "Evade," both fleets may bid Delta-V to conduct the pursuit. If the fleet that selected "Engage" enters the higher bid, the combat will take place. Fleets that are docked at habs or are unavailable for operations because of previous battles may only select the "Accept" option.

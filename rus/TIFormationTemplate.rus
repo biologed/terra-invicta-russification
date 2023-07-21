@@ -1,5 +1,7 @@
 TIFormationTemplate.Spacing.Spread=Широкий
+TIFormationTemplate.Spacing.Open=Открытый
 TIFormationTemplate.Spacing.Loose=Свободный
+TIFormationTemplate.Spacing.Close=Закрытый
 TIFormationTemplate.Spacing.Tight=Сомкнутый
 
 TIFormationTemplate.displayName.Staggered=В шахматном порядке
@@ -29,11 +31,15 @@ TIFormationTemplate.Focus.Swift=Быстрые
 
 TIFormationTemplate.Concentration.Dispersed=Равномерно
 TIFormationTemplate.Concentration.Center=В центре
+TIFormationTemplate.Concentration.Extremities=По окрайне
 TIFormationTemplate.Concentration.Right=Справа
 TIFormationTemplate.Concentration.Left=Слева
-TIFormationTemplate.Concentration.Flanks=На флангах
+TIFormationTemplate.Concentration.Flanks=По горизонтали
 TIFormationTemplate.Concentration.Back=Сзади
 TIFormationTemplate.Concentration.Front=Спереди
+TIFormationTemplate.Concentration.High=Сверху
+TIFormationTemplate.Concentration.Low=Снизу
+TIFormationTemplate.Concentration.Fins=По вертикали
 
 TIFormationTemplate.displayName={0} {1} {2} {3} //Строй + формация + фокус + концентрация, например. «Расстановка лучников справа».
 TIFormationTemplate.description={0}<br/>{1} {2} //Это должно звучать как футбольная формация и описывает расположение кораблей в космосе.
@@ -65,8 +71,12 @@ TIFormationTemplate.Focus.Desc.Swift=Самые быстрые корабли
 
 TIFormationTemplate.Concentration.Desc.Dispersed=равномерно
 TIFormationTemplate.Concentration.Desc.Center=в центре
+TIFormationTemplate.Concentration.Desc.Extremities=по краям
 TIFormationTemplate.Concentration.Desc.Right=справа
 TIFormationTemplate.Concentration.Desc.Left=слева
-TIFormationTemplate.Concentration.Desc.Flanks=на флангах
+TIFormationTemplate.Concentration.Desc.Flanks=на флангах по горизонтали
 TIFormationTemplate.Concentration.Desc.Back=сзади
 TIFormationTemplate.Concentration.Desc.Front=спереди
+TIFormationTemplate.Concentration.Desc.High=сверху
+TIFormationTemplate.Concentration.Desc.Low=сзади
+TIFormationTemplate.Concentration.Desc.Fins=на флангах по вертикали

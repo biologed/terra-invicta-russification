@@ -13,6 +13,9 @@ UI.Objectives.Summary=Цель «{0}» выполнена.
 UI.Objectives.VictoryConditions1=Чтобы начать миссию советника и выиграть игру, мы должны сначала выполнить следующую цель, чтобы обеспечить нашу победу:
 UI.Objectives.VictoryConditionsMult=Чтобы запустить миссию советника для победы в игре, мы должны сначала выполнить следующие цели для обеспечения вашей победы:
 
+UI.Objectives.TechProjectPrereqs=We need to complete these prerequisite techs and projects to be able to complete the research needed to fulfill this objective:
+UI.Objectives.TechProjectPrereq_or=<sp>or {0}
+
 UI.Objectives.HelpPanel=Обучение
 UI.Objectives.TipConfirm=Следующий совет
 UI.Objectives.TipBack=Предыдущий совет
@@ -493,16 +496,16 @@ UI.Objectives.SpaceCombatCanvas.OfferToEndBattle.Desc=Check this to offer to end
 UI.Objectives.SpaceCombatCanvas.EndBattle.Name=Ending The Battle
 UI.Objectives.SpaceCombatCanvas.EndBattle.Desc=Combat comes to an end when a fleet has been destroyed, a fleet has retreated, or both sides have agreed to end the battle.
 UI.Objectives.SpaceCombatCanvas.TimeControls.Name=Combat Time Controls
-UI.Objectives.SpaceCombatCanvas.TimeControls.Desc=How fast the battle plays out can be controlled here. From playing out the battle in close to real time or rapidly accelerating time avoid waiting for time consuming manuvers to play out. Use these contols to manage the flow of time during the battle.
+UI.Objectives.SpaceCombatCanvas.TimeControls.Desc=Use these controls to manage the flow of time during the battle.
 
 UI.Objectives.SpaceCombatCanvas.ShipDetailOverview.Name=Выбранные детали корабля
 UI.Objectives.SpaceCombatCanvas.ShipDetailOverview.Desc=Эта панель содержит всю информацию о выбранном вами корабле.
 UI.Objectives.SpaceCombatCanvas.ShipDetailCommandBar.Name=Панель управления кораблем
 UI.Objectives.SpaceCombatCanvas.ShipDetailCommandBar.Desc=Эта панель содержит все команды, которые могут быть отданы вашему кораблю. Выдаваемые здесь команды влияют только на выбранный в данный момент корабль. Чтобы отдавать команды всему флоту одновременно, используйте панель команд флота в верхней части экрана.
 UI.Objectives.SpaceCombatCanvas.ShipDetailRamming.Name=Ramming Speed
-UI.Objectives.SpaceCombatCanvas.ShipDetailRamming.Desc=This will command the ship to plot a collision course with its primary target. Dealing severe and likely fatal damage to both ships.
+UI.Objectives.SpaceCombatCanvas.ShipDetailRamming.Desc=This will command the ship to plot a collision course with its primary target. A collision will deal severe and likely fatal damage to both ships. This typically incurs an influence cost, which resprents the capability to persuade the crew to give up their lives.
 UI.Objectives.SpaceCombatCanvas.ShipDetailDisengage.Name=Disengage
-UI.Objectives.SpaceCombatCanvas.ShipDetailDisengage.Desc=This will command the ship to withdraw from the battle. A ship will withdraw when 30 minutes have passed and the ship is 2000km away from any enemy ships. Note, this command cannot be undone.
+UI.Objectives.SpaceCombatCanvas.ShipDetailDisengage.Desc=This will command the ship to withdraw from the battle. A ship will withdraw when 30 minutes have passed, and the ship is 2,000 km away from any enemy ships.
 UI.Objectives.SpaceCombatCanvas.ShipDetailCommandManeuver.Name=Команды маневрирования корабля
 UI.Objectives.SpaceCombatCanvas.ShipDetailCommandManeuver.Desc=Эта кнопка откроет дополнительную панель с расширенными параметрами маневрирования. Это позволяет вам контролировать угол поворота и поворота корабля, чтобы лучше позиционировать себя в бою. Например, заблокировать основную цель корабля, чтобы нос корабля был направлен на нее.
 UI.Objectives.SpaceCombatCanvas.ShipDetailTemperature.Name=Температура корабля
@@ -528,7 +531,8 @@ UI.Objectives.SpaceCombatCanvas.CameraFly.Name=Полет на камеру (П�
 UI.Objectives.SpaceCombatCanvas.CameraFly.Desc=Удерживая правую кнопку мыши, используйте клавиши W, S, A и D, чтобы перемещать камеру по боевому ландшафту.
 UI.Objectives.SpaceCombatCanvas.CameraHeight.Name=Регулировка высоты камеры (CTRL + средняя кнопка мыши)
 UI.Objectives.SpaceCombatCanvas.CameraHeight.Desc=Удерживайте CTRL и среднюю кнопку мыши и перемещайте мышь, чтобы изменить высоту камеры.
-
+UI.Objectives.SpaceCombatCanvas.Momentum.Name=Momentum
+UI.Objectives.SpaceCombatCanvas.Momentum.Desc=Per Sir Issac Newton, "An object in motion stays in motion unless acted upon by an outside force." This holds true for ships in combat in space. Ships maintain their momentum, and, with no air resistance or surface friction to slow them naturally, they will continue on their trajectory unless they use their engines to thrust. This allows for clever manuevers to be pulled by savvy commanders, but inexperienced commanders can create "hairball" situations where ships end up scattered and drifting across the battle space. Keep momentum in mind to avoid being picked apart by your enemies.
 UI.Objectives.SpaceCombatCanvas.WaypointsOverview.Name=Установка путевых точек корабля
 UI.Objectives.SpaceCombatCanvas.WaypointsOverview.Desc=В игре Terra Invicta вы управляете движением своих кораблей, манипулируя их путевыми точками. Путевая точка представляет собой положение, вращение и скорость корабля в будущем. Вы можете регулировать положение путевой точки в трех измерениях, а также ее вращение в трех измерениях. Корабли будут двигаться от путевой точки к путевой точке последовательно, при этом красная путевая точка будет представлять ближайшую путевую точку, а фиолетовая - самую дальнюю. Все корабли достигнут путевой точки одного цвета в одно и то же время. Используйте это для планирования их положения относительно других кораблей в будущем.
 UI.Objectives.SpaceCombatCanvas.WaypointsYaw.Name=Регулировка рыскания путевой точки (клавиша Z)
