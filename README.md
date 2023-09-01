@@ -1,4 +1,6 @@
-Руcификатор Terra Invicta
+Руcификатор Terra Invicta 0.3.107
+TILocalizationTemplate.json скопировать с заменой в папку с игрой -> \TerraInvicta_Data\StreamingAssets\Templates
+Папку "rus" скопировать в папку с игрой -> TerraInvicta_Data\StreamingAssets\Localization
 ---
 - TIArmyTemplate.rus                                     - __100%__ (487)
 - TIBatteryTemplate.rus                                  - __100%__ (22)
