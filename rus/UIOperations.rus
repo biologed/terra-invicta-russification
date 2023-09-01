@@ -24,6 +24,7 @@ UI.Operations.NoThrustProfile=Для {0} профиль полета не зад
 UI.Operations.CantMakeIt=Флоту не хватает Дельта-V для перемещения к выбранному пункту назначения.<br/>Доступный Дельта-V: {0} км/с<br/>Требуемый Дельта-V: {1} км/с
 UI.Operations.CantDoIt=Флот не может достичь цели.
 UI.Operations.MinimumCostEarth=Требуется не менее {0} для запуска с Земли.
+UI.Operations.CantReachFromEarth=<sp>Earth rockets cannot currently reach this destination within the {0}-day limit.
 UI.Operations.MinimumCostSpace=Требуется не менее {0} для постройки станции.
 UI.Operations.MinimumCostBoth=Требуется не менее {0} для запуска с Земли и {1} для постройки станции.
 UI.Operations.SelectHabSite=Выбрать расположение станции на {0}

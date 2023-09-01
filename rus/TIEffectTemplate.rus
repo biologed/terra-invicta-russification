@@ -734,3 +734,4 @@ TIEffectTemplate.description.Effect_EndInfiltratedChain=The leak seems to have l
 TIEffectTemplate.description.Effect_GainTraitMarked=-{1} gains the {13} trait.
 TIEffectTemplate.description.Effect_GainTraitAce=-{1} gains the {13} trait.
 TIEffectTemplate.description.Effect_RemoveLiedAboutInfluence=Our lies no longer hang over us.
+TIEffectTemplate.description.Effect_IncreaseMonthlyProjectTriggerChance01=-All unlocked projects gain +{3} chance to become available to research every month

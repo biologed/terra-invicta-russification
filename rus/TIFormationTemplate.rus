@@ -26,8 +26,10 @@ TIFormationTemplate.displayName.BoxThree=Шеренга
 TIFormationTemplate.Focus.Heavy=Тяжелые
 TIFormationTemplate.Focus.Ranged=Дальние
 TIFormationTemplate.Focus.Armored=Бронированные
-TIFormationTemplate.Focus.Battle=Мощные
+TIFormationTemplate.Focus.Battle=Авангард
 TIFormationTemplate.Focus.Swift=Быстрые
+TIFormationTemplate.Focus.PointDefense=ПРО
+TIFormationTemplate.Focus.NoseWeapons=Ударные
 
 TIFormationTemplate.Concentration.Dispersed=Равномерно
 TIFormationTemplate.Concentration.Center=В центре
@@ -68,6 +70,8 @@ TIFormationTemplate.Focus.Desc.Ranged=Корабли дальнего боя
 TIFormationTemplate.Focus.Desc.Armored=Самые бронированные корабли
 TIFormationTemplate.Focus.Desc.Battle=Самые мощные корабли
 TIFormationTemplate.Focus.Desc.Swift=Самые быстрые корабли
+TIFormationTemplate.Focus.Desc.PointDefense=Корабли ПРО
+TIFormationTemplate.Focus.Desc.NoseWeapons=Корабли с носовым вооружением
 
 TIFormationTemplate.Concentration.Desc.Dispersed=равномерно
 TIFormationTemplate.Concentration.Desc.Center=в центре

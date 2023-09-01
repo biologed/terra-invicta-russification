@@ -625,4 +625,6 @@ TIDriveTemplate.Thrust=Тяга:<rcol>{0} Ньютонов (Рейтинг: {1})
 TIDriveTemplate.EV=Удельный импульс:<rcol>{0} км/с (Рейтинг: {1})</rcol>
 TIDriveTemplate.Efficiency=Эффективность использования энергии<rcol>{0}</rcol>
 TIDriveTemplate.RequiredPowerPlant=Требуемая энергия:<rcol>{0}</rcol>
-TIDriveTemplate.CombatThrust=Combat Thrust:<rcol>{0}x ({1} Newtons)</rcol>
+TTIDriveTemplate.CombatThrust=Combat Thrust:<rcol>{0}x ({1} Newtons)</rcol>
+TIDriveTemplate.OpenCycle=This drive uses <h>open-cycle cooling</h>, meaning its heat is expelled through the propellant. A ship with this drive will require minimal radiators to operate safely. High-thrust, low-exhaust velocity drives tend to be open-cycle.
+TIDriveTemplate.ClosedCycle=This drive uses <h>closed-cycle cooling</h>, meaning it requires heavy radiators to expel waste heat. Drives with high exhaust velocity tend to require this to function.

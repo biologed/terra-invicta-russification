@@ -142,8 +142,8 @@ UI.Habs.CopyHabButton=Apply Hab Template
 UI.Habs.PowerAllButton=Power All Modules
 UI.Habs.DecommissionModuleButton=Decommission Module
 UI.Habs.DecommissionHabButton=<color=#FFFFFFFF><sprite name=warning></color>Decommission Hab<color=#FFFFFFFF><sprite name=warning></color>
-UI.Habs.AntishipWeapon=Anti-ship weapon: {0}
-UI.Habs.PDWeapon=Point defense weapon: {0}
+UI.Habs.AntishipWeapon=Anti-ship weapon: <rcol>{0}</rcol>
+UI.Habs.PDWeapon=Point defense weapon: <rcol>{0}</rcol>
 UI.Habs.CancelManagementQueryButtonText=Cancel
 UI.Habs.Decommissioning=<h>Decommissioning</h><br/>This module is in the process of being decommissioned. It draws no power and cannot be reactivated. It may be built over if the entire hab is not being decommissioned. Decommissioning will be complete on {0}.
 UI.Habs.DecommissionModuleQuery=We can decommission this module. We must spend {0} to evacuate the crew. It will take {1} days for the operation to complete.
@@ -188,4 +188,5 @@ UI.Habs.ViewHabTemplates=View Hab Templates
 UI.Habs.FactionHabTemplatesHeader=Hab Templates
 UI.Habs.RebuildAllQuery=Confirming will rebuild all destroyed modules at this hab: {0}.
 UI.Habs.CantAffordRebuild=We cannot afford this right now.
+UI.Habs.MineProductivity=Mine Productivity:
 UI.Habs.All=All

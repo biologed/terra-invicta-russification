@@ -25,9 +25,11 @@ TIFormationTemplate.displayName.BoxThree=Block
 
 TIFormationTemplate.Focus.Heavy=Heavy
 TIFormationTemplate.Focus.Ranged=Archers
-TIFormationTemplate.Focus.Armored=Shields
+TIFormationTemplate.Focus.Armored=Knights
 TIFormationTemplate.Focus.Battle=Swords
 TIFormationTemplate.Focus.Swift=Swift
+TIFormationTemplate.Focus.PointDefense=Shields
+TIFormationTemplate.Focus.NoseWeapons=Lances
 
 TIFormationTemplate.Concentration.Dispersed=Dispersed
 TIFormationTemplate.Concentration.Center=Center
@@ -68,16 +70,18 @@ TIFormationTemplate.Focus.Desc.Ranged=Long-range combatants
 TIFormationTemplate.Focus.Desc.Armored=Most heavily armored ships
 TIFormationTemplate.Focus.Desc.Battle=Most powerful ships
 TIFormationTemplate.Focus.Desc.Swift=Fastest ships
+TIFormationTemplate.Focus.Desc.PointDefense=Point defense ships
+TIFormationTemplate.Focus.Desc.NoseWeapons=Ships with strongest nose weapons
 
 TIFormationTemplate.Concentration.Desc.Dispersed=dispersed
 TIFormationTemplate.Concentration.Desc.Center=in the center
 TIFormationTemplate.Concentration.Desc.Extremities=at the edges
 TIFormationTemplate.Concentration.Desc.Right=to the right
 TIFormationTemplate.Concentration.Desc.Left=to the left
-TIFormationTemplate.Concentration.Desc.Flanks=furthest from center horizontally
+TIFormationTemplate.Concentration.Desc.Flanks=farthest from center horizontally
 TIFormationTemplate.Concentration.Desc.Back=to the rear
 TIFormationTemplate.Concentration.Desc.Front=to the front
 TIFormationTemplate.Concentration.Desc.High=to the top
 TIFormationTemplate.Concentration.Desc.Low=to the bottom
-TIFormationTemplate.Concentration.Desc.Fins=furthest from center vertically
+TIFormationTemplate.Concentration.Desc.Fins=farthest from center vertically
 

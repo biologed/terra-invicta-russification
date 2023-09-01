@@ -325,6 +325,7 @@ TIMissionEffect_StealProject.Special=Меня арестовали и вскор
 TIMissionEffect_StealProject.Steal=Я также получил {0} из их архивов.
 TIMissionEffect_SabotageProject.Special=Меня арестовали, и вскоре я должен быть передан {0}. Пожалуйста, обеспечьте мое освобождение! //название фракции
 TIMissionEffect_Propaganda.Special=Наша общественная поддержка увеличилась на {0} и стала равна {1}.
+TIMissionEffect_Propaganda.Special2=Our public support here didn't budge from {0}, but people are moving away from opposing ideologies and toward ours.
 TIMissionEffect_Assassinate.Special1=Our assassination attempt has gained widespread attention, and I am now wanted by authorities around the globe.									// faction name
 TIMissionEffect_Assassinate.Special2=I have been arrested and expect to be turned over to {0} shortly. Please secure my release!									// faction name
 

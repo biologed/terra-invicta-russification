@@ -3365,8 +3365,8 @@ TINarrativeEventTemplate.displayName.event_infiltrated_Influence_3=Infiltrated: 
 TINarrativeEventTemplate.event_infiltrated_Influence_3.summary=We have rallied the resources of every major intelligence agency, and not a few minor ones.
 TINarrativeEventTemplate.event_infiltrated_Influence_3.query=Not only have we brought almost every global intelligence agency into our search via control, influence, or favors, we initiated a never before seen level of cooperation between them in an effort to cross-pollinate in the hopes of a breakthrough. It worked. Our leak was Jermaine Frost, or at least that's the identity that he was using. His cover was perfectly crafted, it was only due to an unprecedented level of asset sharing and cross-referencing that an anomaly was found: Frost's records in several totally unrelated agencies contained certain subtle word choices and patterns which suggested they had all been written by the same person, something only our grand search could have uncovered.<br/><br/>When surrounded and confronted by our investigation team, Frost was seen to give a wry smile before collapsing, dead instantly. His body began to decompose unnaturally quickly afterwards, which resulted in us being unable to discover much from his autopsy besides an implant containing highly concentrated spider venom.<br/><br/>Many question about Jermaine Frost remain unanswered, but at least he will not be leaking any more of our secrets.
 TINarrativeEventTemplate.event_infiltrated_Influence_3.option0=Case closed.
-TINarrativeEventTemplate.event_infiltrated_Influence_3.option0.Detail=<skip/>
-TINarrativeEventTemplate.event_infiltrated_Influence_3.option0.Summary={targetFactionName} found their leak, but he suicided before he could be captured.
+TINarrativeEventTemplate.event_infiltrated_Influence_3.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_infiltrated_Influence_3.optionResult0={targetFactionName} found their leak, but he committed suicide before he could be captured.
 
 TINarrativeEventTemplate.displayName.event_PoliticalUnity=Political Unity
 TINarrativeEventTemplate.event_PoliticalUnity.summary=In these unprecedented times, politicians wish to be seen as non-partisan.
@@ -3437,3 +3437,12 @@ TINarrativeEventTemplate.event_infiltrated_TimeOut.option0=Sometimes an ignored 
 TINarrativeEventTemplate.event_infiltrated_TimeOut.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_infiltrated_TimeOut.optionResult0={targetFactionName} no longer has a leak.
 
+TINarrativeEventTemplate.displayName.event_VanAllenAntimatter=Trapped Van Allen Antimatter
+TINarrativeEventTemplate.event_VanAllenAntimatter.summary=Our new harvester module has recovered antimatter from Earth's van Allen Belts.
+TINarrativeEventTemplate.event_VanAllenAntimatter.query=The 160 nanograms of antiprotons had accumulated there over about a century. We may save it to support our space operations or provide it to our researcehers.
+TINarrativeEventTemplate.event_VanAllenAntimatter.option0=Stockpile it.
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionResult0=We stockpiled a natural supply of antiprotons trapped in the Van Allen Belts.
+TINarrativeEventTemplate.event_VanAllenAntimatter.option1=Study it.
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionDetail1=<skip/>
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionResult1=We provided a supply of antiprotons recovered during our Van Allen Belt harvesting operations.

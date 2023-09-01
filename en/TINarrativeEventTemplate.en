@@ -387,7 +387,7 @@ TINarrativeEventTemplate.event_UnexpectedDeath.optionResult1={actorNameWithArtic
 
 TINarrativeEventTemplate.displayName.event_Hunters=Hunters
 TINarrativeEventTemplate.event_Hunters.summary=Armed individuals have been spotted hunting alien life forms in {targetRegionName}.
-TINarrativeEventTemplate.event_Hunters.query=The motivations range from commercial, with the exotic quarry being sold to curious customers for a hefty sum, to seemingly purely for the thrill of it.
+TINarrativeEventTemplate.event_Hunters.query=The motivations range from commercial, with the exotic quarry being sold to curious customers for a hefty sum, to seemingly just for the thrill of it.
 TINarrativeEventTemplate.event_Hunters.option0=Let them do as they please.
 TINarrativeEventTemplate.event_Hunters.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_Hunters.optionResult0=Xenofauna-hunting is becoming more popular in {targetRegionName}.
@@ -1667,7 +1667,7 @@ TINarrativeEventTemplate.event_NuclearTerrorism.optionResult2={actorNameWithArti
 
 TINarrativeEventTemplate.displayName.event_AncientExplorers=Ancient Explorers
 TINarrativeEventTemplate.event_AncientExplorers.summary=Our exobiologists working at {targetHabName} have made a most curious discovery.
-TINarrativeEventTemplate.event_AncientExplorers.query=At first, they thought it might have been a simple error, just a mundane failure of decontamination protocol getting them all excited for nothing. Further investigation of the samples confirmed that they were, in fact, a collection of microbe fossils dating back over three billion years. While the possibility that ancient microbial life might have existed on {secondaryTargetNaturalSpaceObjectName} was previously theorized, this is the first scientific evidence humans have found to support that hypothesis.<br/><br/>An extensive follow-up survey of {targetHabSiteName} concluded that the microbes were actually originally from Earth, contemporary with fossil records of 3.5 billion-year-old microbial life that were recently discovered in Australia. Around that time, an asteroid or comet impacted the Earth and blew these microbes out into space. Somehow, they survived all the way until landing on {secondaryTargetNaturalSpaceObjectName}, where the presence of an atmosphere and water allowed them to not only survive, but even to reproduce and evolve for a few million years, before they eventually died out. What an adventure that must've been!<br/><br/>And to think: if only we'd discovered this before the aliens arrived, this would've been the scientific discovery of the decade. The first true evidence of extraterrestrial life! Real, tangible proof of the viability of long-term survival in outer space! Perhaps the foundation of a generation-spanning effort to terraform other worlds! Now... Now it's all just a footnote against the backdrop of mighty alien warships orbiting the Earth.
+TINarrativeEventTemplate.event_AncientExplorers.query=At first, they thought it might have been a simple error, just a mundane failure of decontamination protocol getting them all excited for nothing. Further investigation of the samples confirmed that they were, in fact, a collection of microbe fossils dating back over three billion years. While the possibility that ancient microbial life might have existed on {secondaryTargetNaturalSpaceObjectName} was previously theorized, this is the first scientific evidence humans have found to support that hypothesis.<br/><br/>An extensive follow-up survey of {targetHabSiteName} concluded that the microbes were actually originally from Earth, contemporary with fossil records of 3.5 billion-year-old microbial life that were recently discovered in Australia. Around that time, an asteroid or comet impacted the Earth and blew these microbes out into space. Somehow, they survived all the way until landing on {secondaryTargetNaturalSpaceObjectName}, where the presence of an atmosphere and water allowed them to not only survive, but even to reproduce and evolve for a few million years, before they eventually died out. What an adventure that must've been!<br/><br/>And to think: if only we'd discovered this before the aliens arrived, this would've been the scientific discovery of the decade. The first true evidence of extraterrestrial life! Real, tangible proof of the viability of long-term survival in outer space! Perhaps the foundation of a generation-spanning effort to terraform other worlds! Now it's all just a footnote against the backdrop of mighty alien warships orbiting the Earth.
 TINarrativeEventTemplate.event_AncientExplorers.option0=It's nice to know we've had a few relatives out there in the universe.
 TINarrativeEventTemplate.event_AncientExplorers.optionDetail0=Even if they were very distant relatives.
 TINarrativeEventTemplate.event_AncientExplorers.optionResult0={actorNameWithArticleCap} discovered evidence of 3 billion-year-old microbial life at {targetHabSiteName} on {secondaryTargetNaturalSpaceObjectName}.
@@ -2489,13 +2489,13 @@ TINarrativeEventTemplate.event_BrainRepair.optionResult0={targetCouncilorFullNam
 
 TINarrativeEventTemplate.displayName.event_AlienHoax=Alien Hoax
 TINarrativeEventTemplate.event_AlienHoax.summary=Faked alien activity prominent in {targetNationName}.
-TINarrativeEventTemplate.event_AlienHoax.query=Cattle mutilation. Crop circles. Strange lights in the sky. A clever prankster has been taking advantage of recent uncertainty by staging a number of pranks in {targetNationName}, drawing attention away from the danger which the real aliens pose. This cannot continue.
-TINarrativeEventTemplate.event_AlienHoax.option0=It should be easy enough to debunk him.
+TINarrativeEventTemplate.event_AlienHoax.query=Cattle mutilation. Crop circles. Strange lights in the sky. A clever prankster has been taking advantage of recent uncertainty by staging a number of well orchestrated pranks across {targetNationName}, drawing attention away from the danger which the real aliens pose. This cannot continue.
+TINarrativeEventTemplate.event_AlienHoax.option0=It should be easy enough to debunk them.
 TINarrativeEventTemplate.event_AlienHoax.optionDetail0=The media refocuses on our campaign.
 TINarrativeEventTemplate.event_AlienHoax.optionResult0=The prankster was debunked. 
-TINarrativeEventTemplate.event_AlienHoax.option1=He has talent. Make him an offer he can't refuse.
+TINarrativeEventTemplate.event_AlienHoax.option1=Whoever they are, they have talent. Make them an offer they can't refuse.
 TINarrativeEventTemplate.event_AlienHoax.optionDetail1=The prankster shall become our propagandist. 
-TINarrativeEventTemplate.event_AlienHoax.optionResult1=The prankster was forced to join {targetFactionName}. 
+TINarrativeEventTemplate.event_AlienHoax.optionResult1=The prankster was forced to join {targetFactionName}.
 
 TINarrativeEventTemplate.displayName.event_AlienConspiracy=Alien conspiracy theories
 TINarrativeEventTemplate.event_AlienConspiracy.summary=Alien conspiracy theories spread.
@@ -2743,7 +2743,7 @@ TINarrativeEventTemplate.event_PhoebeBase.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_PhoebeBase.optionResult2={targetFactionName} has no interest in what the Aliens did on Phoebe.
 
 TINarrativeEventTemplate.displayName.event_FirstMaglev=World's first Maglev network
-TINarrativeEventTemplate.event_FirstMaglev.summary=The first full Maglev network.
+TINarrativeEventTemplate.event_FirstMaglev.summary=The first full Maglev network comes online.
 TINarrativeEventTemplate.event_FirstMaglev.query={targetNationNameWithArticleCap} has become the first nation in the world to convert their entire rail network to magnetic levitation trains. Commuters have been enjoying the benefit of improved public transportation for some time, but with the final parts in place a new era in high speed rail has begun in {targetNationNameWithArticle}! 
 TINarrativeEventTemplate.event_FirstMaglev.option0=Excellent
 TINarrativeEventTemplate.event_FirstMaglev.optionDetail0=Do nothing.
@@ -3064,7 +3064,7 @@ TINarrativeEventTemplate.event_Marked_Combat.option0=We strike!
 TINarrativeEventTemplate.event_Marked_Combat.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_Marked_Combat.option0.outcome0=Success!
 TINarrativeEventTemplate.event_Marked_Combat.option0.outcome0.Summary={targetCouncilorFullName} has proven too dangerous and is no longer Marked.
-TINarrativeEventTemplate.event_Marked_Combat.option0.outcome0.Detail=The hunters become the hunted as {targetCouncilorFullName} leads a team of operatives in storming their meeting place. Taken by surprize, they offer only token resistance before being gunned down.<br/><br/>In the aftermath, personal and electronic surveillance of {targetCouncilorPersonalName} drops drastically. It appears the hunt has ended.
+TINarrativeEventTemplate.event_Marked_Combat.option0.outcome0.Detail=The hunters become the hunted as {targetCouncilorFullName} leads a team of operatives in storming their meeting place. Taken by surprise, they offer only token resistance before being gunned down.<br/><br/>In the aftermath, personal and electronic surveillance of {targetCouncilorPersonalName} drops drastically. It appears the hunt has ended.
 TINarrativeEventTemplate.event_Marked_Combat.option0.outcome1=Failure.
 TINarrativeEventTemplate.event_Marked_Combat.option0.outcome1.Summary={targetCouncilorFullName} remains Marked, despite striking out at those who hunt {targetCouncilorObjectivePronoun}.
 TINarrativeEventTemplate.event_Marked_Combat.option0.outcome1.Detail={targetCouncilorFullName} and {targetCouncilorPossessivePronoun} team successfully take out the team of hunters, but afterwards notices no drop in the amount of surveillance aimed at {targetCouncilorObjectivePronoun}.<br/><br/>The hunt continues.
@@ -3111,11 +3111,11 @@ TINarrativeEventTemplate.event_InformationLeak.optionResult3={targetFactionName}
 
 TINarrativeEventTemplate.displayName.event_AlienHoax_ProAlien=Alien Hoax
 TINarrativeEventTemplate.event_AlienHoax_ProAlien.summary=Faked alien activity prominent in {targetNationName}.
-TINarrativeEventTemplate.event_AlienHoax_ProAlien.query=Cattle mutilation. Crop circles. Strange lights in the sky. A clever prankster has been taking advantage of recent uncertainty by staging a number of pranks in {targetNationName}, falsely attributing malicious intent to the aliens. This cannot continue.
-TINarrativeEventTemplate.event_AlienHoax_ProAlien.option0=It should be easy enough to debunk him.
+TINarrativeEventTemplate.event_AlienHoax_ProAlien.query=Cattle mutilation. Crop circles. Strange lights in the sky. A clever prankster has been taking advantage of recent uncertainty by staging a number of well orchestrated pranks across {targetNationName}, falsely attributing malicious intent to the aliens. This cannot continue.
+TINarrativeEventTemplate.event_AlienHoax_ProAlien.option0=It should be easy enough to debunk them.
 TINarrativeEventTemplate.event_AlienHoax_ProAlien.optionDetail0=The media refocuses on our campaign.
 TINarrativeEventTemplate.event_AlienHoax_ProAlien.optionResult0=The prankster was debunked. 
-TINarrativeEventTemplate.event_AlienHoax_ProAlien.option1=He has talent. Make him an offer he can't refuse.
+TINarrativeEventTemplate.event_AlienHoax_ProAlien.option1=Whoever they are, they have talent. Make them an offer they can't refuse.
 TINarrativeEventTemplate.event_AlienHoax_ProAlien.optionDetail1=The prankster shall become our propagandist. 
 TINarrativeEventTemplate.event_AlienHoax_ProAlien.optionResult1=The prankster was forced to join {targetFactionName}.
 
@@ -3362,11 +3362,11 @@ TINarrativeEventTemplate.event_infiltrated_Influence_2.option0.outcome1.Summary=
 TINarrativeEventTemplate.event_infiltrated_Influence_2.option0.outcome1.Detail=No useful data has been found yet, although a number of new patterns have been observed. Members of {targetFactionName} tend to have above average levels of martial arts training, even for non-combat positions, are more likely to be left-handed than the global norm, and have a statistically unlikely but entirely understandable love for large dogs. 
 
 TINarrativeEventTemplate.displayName.event_infiltrated_Influence_3=Infiltrated: With A Little Help From Our Friends
-TINarrativeEventTemplate.event_infiltrated_Influence_3.summary=We have rallied the resources of every major intelligence agency, and not a few minor ones. 
-TINarrativeEventTemplate.event_infiltrated_Influence_3.query=Not only have we brought almost every global intelligence agency into our search via control, influence, or favors, we initiated a never before seen level of cooperation between them in an effort to cross-pollinate in the hopes of a breakthrough. It worked. Our leak was Jermaine Frost, or at least that's the identity that he was using. His cover was perfectly crafted, it was only due to an unprecedented level of asset sharing and cross-referencing that an anomaly was found: Frost's records in several totally unrelated agencies contained certain subtle word choices and patterns which suggested they had all been written by the same person, something only our grand search could have uncovered.<br/><br/>When surrounded and confronted by our investigation team, Frost was seen to give a wry smile before collapsing, dead instantly. His body began to decompose unnaturally quickly afterwards, which resulted in us being unable to discover much from his autopsy besides an implant containing highly concentrated spider venom.<br/><br/>Many question about Jermaine Frost remain unanswered, but at least he will not be leaking any more of our secrets.     
+TINarrativeEventTemplate.event_infiltrated_Influence_3.summary=We have rallied the resources of every major intelligence agency, and quite a few minor ones. 
+TINarrativeEventTemplate.event_infiltrated_Influence_3.query=Not only have we brought almost every global intelligence agency into our search via control, influence, or favors, we initiated a never before seen level of cooperation between them in an effort to cross-pollinate in the hopes of a breakthrough. It worked. Our leak was Jermaine Frost, or at least that's the identity that he was using. His cover was perfectly crafted, it was only due to an unprecedented level of asset sharing and cross-referencing that an anomaly was found: Frost's records in several totally unrelated agencies contained certain subtle word choices and patterns which suggested they had all been written by the same person, something only our grand search could have uncovered.<br/><br/>When surrounded and confronted by our investigation team, Frost was seen to give a wry smile before collapsing, dead instantly. His body began to decompose unnaturally quickly afterwards, which resulted in us being unable to discover much from his autopsy besides an implant containing highly concentrated spider venom.<br/><br/>Many questions about Jermaine Frost remain unanswered, but at least he will not be leaking any more of our secrets.     
 TINarrativeEventTemplate.event_infiltrated_Influence_3.option0=Case closed.
-TINarrativeEventTemplate.event_infiltrated_Influence_3.option0.Detail=<skip/>
-TINarrativeEventTemplate.event_infiltrated_Influence_3.option0.Summary={targetFactionName} found their leak, but he suicided before he could be captured. 
+TINarrativeEventTemplate.event_infiltrated_Influence_3.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_infiltrated_Influence_3.optionResult0={targetFactionName} found their leak, but he committed suicide before he could be captured. 
 
 TINarrativeEventTemplate.displayName.event_PoliticalUnity=Political Unity
 TINarrativeEventTemplate.event_PoliticalUnity.summary=In these unprecedented times, politicians wish to be seen as non-partisan.   
@@ -3400,13 +3400,13 @@ TINarrativeEventTemplate.event_PoliticalDivision.optionResult3={targetFactionNam
 TINarrativeEventTemplate.displayName.event_PoliticalDictate=Rule by Decree
 TINarrativeEventTemplate.event_PoliticalDictate.summary=While there are some limits, a dictator can bring about rapid policy changes. 
 TINarrativeEventTemplate.event_PoliticalDictate.query=Now that the various factions within {targetNationNameWithArticle} are subdued and the people are stoked with patriotic fervor, a powerful leader could set a new course with a rousing speech and a ruthless secret police department.<br/><br/>"My people! Under my wise leadership {targetNationNameWithArticle} has become strong! Now is the time to take this strength and focus it towards our grand destiny! Together we will... 
-TINarrativeEventTemplate.event_PoliticalDictate.option0="conquer space itself!"
+TINarrativeEventTemplate.event_PoliticalDictate.option0=Conquer space itself!
 TINarrativeEventTemplate.event_PoliticalDictate.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_PoliticalDictate.optionResult0={targetNationNameWithArticle} seeks to militarize space.
-TINarrativeEventTemplate.event_PoliticalDictate.option1="research the most powerful weapons known to man!"
+TINarrativeEventTemplate.event_PoliticalDictate.option1=Research the most powerful weapons known to man!
 TINarrativeEventTemplate.event_PoliticalDictate.optionDetail1=<skip/>
 TINarrativeEventTemplate.event_PoliticalDictate.optionResult1={targetNationNameWithArticle} seeks to research more powerful weapons.
-TINarrativeEventTemplate.event_PoliticalDictate.option2="destroy our enemies with our mighty army!"
+TINarrativeEventTemplate.event_PoliticalDictate.option2=Destroy our enemies with our mighty army!
 TINarrativeEventTemplate.event_PoliticalDictate.optionDetail2=<skip/>
 TINarrativeEventTemplate.event_PoliticalDictate.optionResult2={targetNationNameWithArticle} seeks to build its military power. 
 
@@ -3432,8 +3432,17 @@ TINarrativeEventTemplate.event_OrbitalDebrisNearMiss.optionResult0={targetHabNam
 
 TINarrativeEventTemplate.displayName.event_infiltrated_TimeOut=Infiltration Ends
 TINarrativeEventTemplate.event_infiltrated_TimeOut.summary=Despite our lack of action, the leak is at an end.
-TINarrativeEventTemplate.event_infiltrated_TimeOut.query=After a series of devastating leaks one of our security staff, Caitlin Morrow, recently vanished without a trace and since then no further information has been leaked. It seems likely that Ms Morrow was our leak and either fulfilled her purpose, earned enough money, or became worried that she had lingered too long, and decided to exfiltrate.
+TINarrativeEventTemplate.event_infiltrated_TimeOut.query=After a series of devastating leaks one of our security staff, Caitlin Morrow, recently vanished without a trace and since then no further information has been leaked. It seems likely that Ms. Morrow was our leak and either fulfilled her purpose, earned enough money, or became worried that she had lingered too long, and decided to exfiltrate.
 TINarrativeEventTemplate.event_infiltrated_TimeOut.option0=Sometimes an ignored problem solves itself.
 TINarrativeEventTemplate.event_infiltrated_TimeOut.optionDetail0=<skip/>
 TINarrativeEventTemplate.event_infiltrated_TimeOut.optionResult0={targetFactionName} no longer has a leak.
 
+TINarrativeEventTemplate.displayName.event_VanAllenAntimatter=Trapped Van Allen Antimatter
+TINarrativeEventTemplate.event_VanAllenAntimatter.summary=Our new harvester module has recovered antimatter from Earth's van Allen Belts.
+TINarrativeEventTemplate.event_VanAllenAntimatter.query=The 160 nanograms of antiprotons had accumulated there over about a century. We may save it to support our space operations or provide it to our researcehers.
+TINarrativeEventTemplate.event_VanAllenAntimatter.option0=Stockpile it.
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionDetail0=<skip/>
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionResult0=We stockpiled a natural supply of antiprotons trapped in the Van Allen Belts.
+TINarrativeEventTemplate.event_VanAllenAntimatter.option1=Study it.
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionDetail1=<skip/>
+TINarrativeEventTemplate.event_VanAllenAntimatter.optionResult1=We provided a supply of antiprotons recovered during our Van Allen Belt harvesting operations.

@@ -65,7 +65,7 @@ TIMissionTemplate.Success.Contact=I have contacted {targetDisplayName} of {targe
 
 TIMissionTemplate.displayName.ControlSpaceAsset=Control Space Asset
 TIMissionTemplate.description.ControlSpaceAsset=Persuade a ship or hab crew to join your faction. Requires we have sufficient mission control to take on the asset.
-TIMissionTemplate.CriticalSuccess.ControlSpaceAsset=We led a mutiny on {targetDisplayName} and the crew there has joined {myFactionName}. They turned over extensive surveillance data to us and this asset will especially resilient against enemy missions until {returnedValue}. 
+TIMissionTemplate.CriticalSuccess.ControlSpaceAsset=We led a mutiny on {targetDisplayName} and the crew there has joined {myFactionName}. They turned over extensive surveillance data to us and this asset will be especially resilient against enemy missions until {returnedValue}. 
 TIMissionTemplate.Success.ControlSpaceAsset=We inspired a mutiny on {targetDisplayName} and the crew there has joined {myFactionName}.
 TIMissionTemplate.Failure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny and I am to be arrested by {targetFactionName} soon!
 TIMissionTemplate.CriticalFailure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny and I am to be arrested by {targetFactionName} soon!
@@ -176,7 +176,7 @@ TIMissionTemplate.Failure.InvestigateCouncilor=I failed to learn anything new ab
 TIMissionTemplate.CriticalFailure.InvestigateCouncilor=I failed to learn anything about {targetDisplayNameSent}, and I may have been detected by our enemies. {returnedValue}
 
 TIMissionTemplate.displayName.Orbit=Orbit
-TIMissionTemplate.description.Orbit=Move from the surface of Earth to any orbit in the Earth-Luna system, or from the surface of any space body to a station or ship in an interface orbit. Undercover trait required to travel to enemy outposts, platforms and ships.
+TIMissionTemplate.description.Orbit=Move from the surface of Earth to any orbit in the Earth-Luna system, or from the surface of any space body to a station or ship in an interface orbit. The Undercover trait is only required to travel to enemy Tier 1 Habs (outposts and platforms) and fleets.
 TIMissionTemplate.Success.Orbit=I have arrived onboard {targetLocationStrSentence}.
 
 TIMissionTemplate.displayName.Deorbit=Deorbit
@@ -238,7 +238,7 @@ TIMissionTemplate.CriticalFailure.StealProject=I failed to gain access to the re
 TIMissionTemplate.Prompt.StealProject=Select a project to steal from {0}...
 
 TIMissionTemplate.displayName.TerrorizeRegion=Terrorize Region
-TIMissionTemplate.description.TerrorizeRegion=Attack civilians in this region to force concessions from the national government, gaining an open control point for a human faction who regards us as a superior force. This risks hardening opposition to us, however.
+TIMissionTemplate.description.TerrorizeRegion=Attack civilians in this region to force concessions from the national government, gaining a control point for a human faction who regards us as a superior force. This risks hardening opposition to us, however.
 TIMissionTemplate.CriticalSuccess.TerrorizeRegion=Our shock troops were successful in terrorizing the {targetRegionName} region, and {1} has gained a control point {targetNationNameWithPrep}. The human public seems to have reacted largely with fear to our incursion.
 TIMissionTemplate.Success.TerrorizeRegion=Our shock troops were generally successful in terrorizing the {targetRegionName} region, and {1} has gained a control point {targetNationNameWithPrep}. The public seems increasingly polarized between resistance and fear.
 TIMissionTemplate.Failure.TerrorizeRegion=Our shock troops failed in their mission to terrorize the {targetRegionName} region.
@@ -252,7 +252,7 @@ TIMissionTemplate.Failure.Xenoform=Our bioforms failed to have taken root here.
 TIMissionTemplate.CriticalFailure.Xenoform=Our bioforms failed to have taken root here, and it is likely my activities were detected.
 
 TIMissionTemplate.displayName.Transfer=Transfer
-TIMissionTemplate.description.Transfer=Relocate from one hab or fleet to another anywhere in space in the Earth-Luna system. Away from Earth, move to any hab or fleet in same orbit, or on the same space body. Undercover trait required to travel to enemy outposts, platforms and ships.
+TIMissionTemplate.description.Transfer=Relocate from one hab or fleet to another anywhere in space in the Earth-Luna system. Away from Earth, move to any hab or fleet in same orbit, or on the same space body. The Undercover trait is only required to travel to enemy Tier 1 Habs (outposts and platforms) and fleets.
 TIMissionTemplate.Success.Transfer=I have arrived at {targetDisplayName}.
 
 TIMissionTemplate.displayName.Turn=Turn Councilor
@@ -307,7 +307,7 @@ TIMissionTemplate.Success.SubmitWin=Earth is now united under alien rule.
 TIMissionEffect_IncreaseUnrest.Special1=My work was detected, causing our public support here to drop by {0} and {1} to be accused of an atrocity.										// % change, councilor's faction name
 TIMissionEffect_IncreaseUnrest.Special2=My work was detected! {0} agents are accusing {1} of an atrocity and coming to detain me! Please secure my release!								// capturing faction name, councilor's faction name
 TIMissionEffect_Coup.Special1=Our public support here has dropped by {0}.
-TIMissionEffect_Coup.Special2={0} is about to capture me! I will try to resist their interrogations as long as I can!			// faction name, capitalized
+TIMissionEffect_Coup.Special2=I am about to be captured by {0}. I will try to resist their interrogations as long as I can!			// faction name, capitalized
 TIMissionEffect_DamageSpaceFacilities.Special1=We have been connected to the attempt and our public support has dropped by {0}.
 TIMissionEffect_DamageSpaceFacilities.Special2=I have been arrested and expect to be turned over to {0} shortly.					// faction name
 TIMissionEffect_InvestigateCouncilor.EnemySpecial1=We know the target's identity, {0}, affiliation with {1}, and work as a {2}.
@@ -325,6 +325,7 @@ TIMissionEffect_StealProject.Special=I have been arrested and expect to be turne
 TIMissionEffect_StealProject.Steal=I have also acquired {0} from their archives.
 TIMissionEffect_SabotageProject.Special=I have been arrested and expect to be turned over to {0} shortly. Please secure my release!									// faction name
 TIMissionEffect_Propaganda.Special=Our public support here has changed by {0}. It now stands at {1}.
+TIMissionEffect_Propaganda.Special2=Our public support here didn't budge from {0}, but people are moving away from opposing ideologies and toward ours.
 TIMissionEffect_Assassinate.Special1=Our assassination attempt has gained widespread attention, and I am now wanted by authorities around the globe.									// faction name
 TIMissionEffect_Assassinate.Special2=I have been arrested and expect to be turned over to {0} shortly. Please secure my release!									// faction name
 

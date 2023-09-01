@@ -142,8 +142,8 @@ UI.Habs.CopyHabButton=Применить дизайн
 UI.Habs.PowerAllButton=Включить все модули
 UI.Habs.DecommissionModuleButton=Разобрать модуль
 UI.Habs.DecommissionHabButton=<sprite name=warning>Вывести из эксплуатации<sprite name=warning>
-UI.Habs.AntishipWeapon=Противокорабельное оружие: {0}
-UI.Habs.PDWeapon=Оружие точечной защиты: {0}
+UI.Habs.AntishipWeapon=Противокорабельное оружие: <rcol>{0}</rcol>
+UI.Habs.PDWeapon=Оружие точечной защиты: <rcol>{0}</rcol>
 UI.Habs.CancelManagementQueryButtonText=Отмена
 UI.Habs.Decommissioning=<h>Вывод из эксплуатации</h><br/>Этот модуль находится в процессе вывода из эксплуатации. Он не потребляет энергии и не может быть повторно активирован. Он может быть застроен, если весь хаб не будет выведен из эксплуатации. Вывод из эксплуатации будет завершен {0}.
 UI.Habs.DecommissionModuleQuery=Разобрать этот модуль? Для разборки модуля понадобится {0} на эвакуацию экипажа и займет {1} дней.
@@ -188,4 +188,5 @@ UI.Habs.ViewHabTemplates=View Hab Templates
 UI.Habs.FactionHabTemplatesHeader=Hab Templates
 UI.Habs.RebuildAllQuery=Confirming will rebuild all destroyed modules at this hab: {0}.
 UI.Habs.CantAffordRebuild=We cannot afford this right now.
+UI.Habs.MineProductivity=Mine Productivity:
 UI.Habs.All=All

@@ -64,6 +64,7 @@ UI.Intel.SafeGreenhouseGasLevel=Безопасный уровень<rcol>{0} ppm
 UI.Intel.GlobalDataHeader=Мировая статистика
 UI.Intel.GlobalDataData=Население Земли<rcol>{0}</rcol><br/>Население космоса<rcol>{1}</rcol><br/>ВВП<rcol>${2}</rcol><br/>ВВП на душу населения<rcol>${3}</rcol>
 UI.Intel.LaunchWindowText={0}{1}{2}
+UI.Intel.EarthLaunchWindow=Earth Launch Window
 UI.Intel.ProspectTipText=Запустить зонд «Разведчик»<br/>{0}
 UI.Intel.AtrocitiesHeader=Преступления
 UI.Intel.TransferPlannerHeader=Планировщик
