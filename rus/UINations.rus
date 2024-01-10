@@ -46,4 +46,6 @@ UI.Nations.CPMaint9=(из-за заброшенности)
 UI.Nations.CPMaint10=Бонус от управления советников: {0}{1}
 UI.Nations.CPMaint11=Бонус от командования советников: {0}{1}
 UI.Nations.CPMaint12=Бонус от убеждения советников: {0}{1}
-UI.Nations.CPMaint13=Бонус от убеждения сред обитания: {0}{1}
+UI.Nations.CPMaint13=Бонус от станций и баз: {0}{1}
+UI.Nations.CannotTemplateDelete=Cannot delete premade or templates marked as default
+UI.Nations.TemplateDelete=Delete Priority Template
