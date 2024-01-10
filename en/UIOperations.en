@@ -8,6 +8,7 @@ UI.Operations.FlightTime=Time to Arrival: {0}
 UI.Operations.Duration_hours={0} hours
 UI.Operations.Duration_days={0} days
 UI.Operations.Duration_weeks={0} weeks
+UI.Operations.Duration_years={0} years
 UI.Operations.LaunchDate=Launch: {0}
 UI.Operations.ArrivalDate=Arrival: {0}
 UI.Operations.Loiter=Loiter: {0}

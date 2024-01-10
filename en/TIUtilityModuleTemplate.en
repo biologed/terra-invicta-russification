@@ -1,7 +1,7 @@
 TIUtilityModuleTemplate.displayName.ISRUModule=ISRU Module
-TIUtilityModuleTemplate.description.ISRUModule=The In-Situ Resource Utilization Module will allow ships to re-propellant at unimproved hab sites that produce raw materials used in the ship's propellant. Ships that that have <h>anything</h> listed as their propellant may re-propellant at any site.
+TIUtilityModuleTemplate.description.ISRUModule=The In-Situ Resource Utilization Module will allow ships to re-propellant at unimproved hab sites that produce all raw materials used in the ship's propellant. Ships that that have <h>anything</h> listed as their propellant may re-propellant at any site.
 TIUtilityModuleTemplate.displayName.RemassScoop=Remass Scoop
-TIUtilityModuleTemplate.description.RemassScoop=The remass scoop gives the ship aerodynamic qualities, preventing damage from aerobraking, and allows it to refill <h>hydrogen</h> propellant stores with <color=#FFFFFFFF><sprite name="water"></color> as its only component from interface orbits of Jovian planets. Ships that have <h>anything</h> listed their as propellant may re-propellant at Jovian worlds as well.
+TIUtilityModuleTemplate.description.RemassScoop=The remass scoop gives the ship aerodynamic qualities, preventing damage from aerobraking, and allows it to refill <h>hydrogen</h> propellant stores with <color=#FFFFFFFF><sprite name="water"></color> as its only component from interface orbits of Jovian planets. Ships that have <h>anything</h> listed as their propellant may re-propellant at Jovian worlds as well.
 TIUtilityModuleTemplate.displayName.MuonSpiker=Muon Spiker
 TIUtilityModuleTemplate.description.MuonSpiker=Muons catalyze nuclear fusion reactions, granting a {1} bonus to thrust to fusion drives.
 TIUtilityModuleTemplate.displayName.NeutroniumSpiker=Neutronium Spiker

@@ -30,3 +30,4 @@ UI.Army.BD_HitChance={0} to-hit chance
 UI.Army.BD_LocalForces={0} regional defense forces total defense value
 UI.Army.BD_LFLosses=<sp>-{0} from losses
 UI.Army.OccupationIncreaseChance={0} chance to increase occupation
+UI.Army.RightClickBehavior=Shift-<sprite=86> to deploy army<br/>Control-shift-<sprite=86> to deploy all armies in stack<br/>Add Alt key to create multi-region paths

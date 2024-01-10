@@ -67,8 +67,9 @@ TIMissionTemplate.displayName.ControlSpaceAsset=Control Space Asset
 TIMissionTemplate.description.ControlSpaceAsset=Persuade a ship or hab crew to join your faction. Requires we have sufficient mission control to take on the asset.
 TIMissionTemplate.CriticalSuccess.ControlSpaceAsset=We led a mutiny on {targetDisplayName} and the crew there has joined {myFactionName}. They turned over extensive surveillance data to us and this asset will be especially resilient against enemy missions until {returnedValue}. 
 TIMissionTemplate.Success.ControlSpaceAsset=We inspired a mutiny on {targetDisplayName} and the crew there has joined {myFactionName}.
-TIMissionTemplate.Failure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny and I am to be arrested by {targetFactionName} soon!
-TIMissionTemplate.CriticalFailure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny and I am to be arrested by {targetFactionName} soon!
+TIMissionTemplate.Failure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny. {returnedValue}
+TIMissionTemplate.FailurePlus.ControlSpaceAsset=I am to be arrested by {0} soon!
+TIMissionTemplate.CriticalFailure.ControlSpaceAsset=I failed to inspire an uprising on {targetDisplayName}. The powers here are on guard for future attempts at a mutiny. {returnedValue}
 
 TIMissionTemplate.displayName.Coup=Coup d'Etat
 TIMissionTemplate.description.Coup=Overthrow a government and reset its control points.
@@ -143,7 +144,7 @@ TIMissionTemplate.description.GoToGround=Go into hiding in an Earth region to es
 TIMissionTemplate.Success.GoToGround=I am laying low in {targetRegionName}.
 
 TIMissionTemplate.displayName.HostileTakeover=Hostile Takeover
-TIMissionTemplate.description.HostileTakeover=Seize an org from an enemy councilor for our own use. Also may target faction orgs not assigned to any councilor.
+TIMissionTemplate.description.HostileTakeover=Seize an org from an enemy councilor for our own use. Also may target faction pool orgs not assigned to any councilor. Certain faction-specific orgs are immune.				//, as are orgs granting <color=#FFFFFFFF><sprite name="attribute_administration"></color> that is currently being used to control other orgs.
 TIMissionTemplate.CriticalSuccess.HostileTakeover=Our hostile takeover attempt against {targetDisplayName} of {targetFactionName} was extremely successful. In addition to securing one of their orgs, we also gained {returnedValue} in the transfer.
 TIMissionTemplate.Success.HostileTakeover=Our hostile takeover attempt against {targetDisplayName} of {targetFactionName} was successful.
 TIMissionTemplate.Failure.HostileTakeover=We failed to acquire an org belonging to {targetDisplayName} of {targetFactionName}.
@@ -151,7 +152,7 @@ TIMissionTemplate.CriticalFailure.HostileTakeover=We failed to acquire an org be
 TIMissionTemplate.Prompt.HostileTakeover=Select an org to steal from {0} ...
 
 TIMissionTemplate.displayName.Inspire=Inspire
-TIMissionTemplate.description.Inspire=Improve the loyalty of another councilor, making them more resistant to interrogation and attempts to turn them. May also bring back a turned councilor to our side.
+TIMissionTemplate.description.Inspire=Improve the Loyalty of another councilor, making them more resistant to interrogation and attempts to turn them. May also bring back a turned councilor to our side.
 TIMissionTemplate.CriticalSuccess.Inspire=After we spoke, our councilor {targetDisplayNameSent} seems a great deal more enthusiastic about our efforts. {returnedValue}
 TIMissionTemplate.Success.Inspire=Our councilor {targetDisplayNameSent} seems to be more enthusiastic about the cause. {returnedValue}
 TIMissionTemplate.Failure.Inspire=I don't think I made much of an impact on the loyalty of {targetDisplayNameSent} to the cause. {returnedValue}
@@ -169,7 +170,7 @@ TIMissionTemplate.Failure.InvestigateAlienActivity=I failed to learn anything ne
 TIMissionTemplate.CriticalFailure.InvestigateAlienActivity=I failed to learn anything new from my investigation of the {targetDisplayName} {targetNationNameWithPrep} and was likely discovered by enemy agents.
 
 TIMissionTemplate.displayName.InvestigateCouncilor=Investigate Councilor
-TIMissionTemplate.description.InvestigateCouncilor=Gather intelligence on a councilor, which can enable us to target the councilor with missions and learn more about the faction the councilor serves. Can also be used to verify loyalty of one of our own councilors.
+TIMissionTemplate.description.InvestigateCouncilor=Gather intelligence on a councilor, which can enable us to target the councilor with missions and learn more about the faction the councilor serves. Can also be used to verify Loyalty of one of our own councilors.
 TIMissionTemplate.CriticalSuccess.InvestigateCouncilor=We have learned significant new information about {targetDisplayNameSent}. {returnedValue}
 TIMissionTemplate.Success.InvestigateCouncilor=We have improved our knowledge about {targetDisplayNameSent}. {returnedValue}
 TIMissionTemplate.Failure.InvestigateCouncilor=I failed to learn anything new about {targetDisplayNameSent}. {returnedValue}
@@ -188,7 +189,7 @@ TIMissionTemplate.description.PassTechnology=Grant some of our technology to ass
 TIMissionTemplate.Success.PassTechnology=I have provided assistance to our allies.
 
 TIMissionTemplate.displayName.Protect=Protect Target
-TIMissionTemplate.description.Protect=Apply my Security or Command attribute to protect a targeted councilor, region, or hab against physical attacks or other operations. Will also prevent councilor from dying in failed assault missions.
+TIMissionTemplate.description.Protect=Apply the councilor's Security or Command attribute to shield a targeted region, hab, or allied councilor against physical attacks and other operations. Will also prevent the targeted councilor from dying in failed assault missions.
 TIMissionTemplate.Success.Protect=I am now protecting {targetDisplayName} from enemy operations.
 
 TIMissionTemplate.displayName.SabotageFacilities=Sabotage Facilities
@@ -256,7 +257,7 @@ TIMissionTemplate.description.Transfer=Relocate from one hab or fleet to another
 TIMissionTemplate.Success.Transfer=I have arrived at {targetDisplayName}.
 
 TIMissionTemplate.displayName.Turn=Turn Councilor
-TIMissionTemplate.description.Turn=Turn an enemy councilor to our cause, giving us a wealth of intelligence and control over whether the councilor's missions succeed or fail. We must know the target's actual loyalty attribute to attempt this mission.
+TIMissionTemplate.description.Turn=Turn an enemy councilor to our cause, giving us a wealth of intelligence and control over whether the councilor's missions succeed or fail. We must know the target's actual Loyalty attribute to attempt this mission.
 TIMissionTemplate.CriticalSuccess.Turn=We have turned {targetDisplayName} to our cause. This councilor will continue to work for {targetFactionName}, but we will have access to all of the faction's intel and control over whether the councilor will succeed or fail on missions. We must take care not to arouse too much suspicion within {targetFactionName}!<br/><br/>We scored an additional coup: Our new agent brought a month's worth of research files, moving our own development forward significantly.
 TIMissionTemplate.Success.Turn=We have turned {targetDisplayName} to our cause. This councilor will continue to work for {targetFactionName}, but we will have access to all of the faction's intel and control over whether the councilor will succeed or fail on missions. We must take care not to arouse too much suspicion among {targetFactionName}!
 TIMissionTemplate.Failure.Turn=We failed to turn {targetDisplayName} to our cause.
